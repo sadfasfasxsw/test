@@ -1,0 +1,4721 @@
+[ {
+  "id" : 1,
+  "path" : "N/A",
+  "method" : "N/A",
+  "parameters" : "N/A",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "4e92b13c-d32a-4c67-b92c-35281104dea4",
+  "host" : "N/A",
+  "created_at" : "3/10/2025 18:56:18"
+}, {
+  "id" : 2,
+  "path" : "N/A",
+  "method" : "N/A",
+  "parameters" : "N/A",
+  "tags" : "public org.springframework.remoting.caucho.HessianServiceExporter org.javaweb.vuln.controller.HessianController.hessianService",
+  "response" : "N/A",
+  "uuid" : "1883b805-99ec-4da3-8337-11557e1ea3de",
+  "host" : "N/A",
+  "created_at" : "3/10/2025 18:56:19"
+}, {
+  "id" : 3,
+  "path" : "N/A",
+  "method" : "N/A",
+  "parameters" : "N/A",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "24547cd0-cbbe-4f15-aee3-2ff2995bc3e6",
+  "host" : "N/A",
+  "created_at" : "3/10/2025 18:56:19"
+}, {
+  "id" : 4,
+  "path" : "N/A",
+  "method" : "N/A",
+  "parameters" : "N/A",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "4279b642-9d37-4fdf-b71c-5407ea62f46a",
+  "host" : "N/A",
+  "created_at" : "3/10/2025 18:56:19"
+}, {
+  "id" : 5,
+  "path" : "N/A",
+  "method" : "N/A",
+  "parameters" : "N/A",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "f2cb62a1-eaa7-4c87-8a04-f84601ef6ed5",
+  "host" : "N/A",
+  "created_at" : "3/10/2025 18:56:19"
+}, {
+  "id" : 6,
+  "path" : "N/A",
+  "method" : "N/A",
+  "parameters" : "N/A",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "92e93d98-1b62-46dc-ab2c-e9cf9f9bd472",
+  "host" : "N/A",
+  "created_at" : "3/10/2025 18:56:19"
+}, {
+  "id" : 7,
+  "path" : "N/A",
+  "method" : "N/A",
+  "parameters" : "N/A",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "1cc55ec1-d37b-481b-81d2-e9d0b3de2c63",
+  "host" : "N/A",
+  "created_at" : "3/10/2025 18:56:19"
+}, {
+  "id" : 8,
+  "path" : "N/A",
+  "method" : "N/A",
+  "parameters" : "N/A",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "a31fb095-c70a-423e-a2bc-00998229021c",
+  "host" : "N/A",
+  "created_at" : "3/10/2025 18:56:19"
+}, {
+  "id" : 9,
+  "path" : "N/A",
+  "method" : "N/A",
+  "parameters" : "N/A",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "85a2b5c0-da86-4b82-86eb-fbb637f860ee",
+  "host" : "N/A",
+  "created_at" : "3/10/2025 18:56:19"
+}, {
+  "id" : 10,
+  "path" : "N/A",
+  "method" : "N/A",
+  "parameters" : "N/A",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "37b7266d-155b-45f9-b0d3-4755639e41e1",
+  "host" : "N/A",
+  "created_at" : "3/10/2025 18:56:19"
+}, {
+  "id" : 11,
+  "path" : "N/A",
+  "method" : "N/A",
+  "parameters" : "N/A",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "74920786-0f8c-4087-a522-29db92db1e42",
+  "host" : "N/A",
+  "created_at" : "3/10/2025 18:56:19"
+}, {
+  "id" : 12,
+  "path" : "N/A",
+  "method" : "N/A",
+  "parameters" : "N/A",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "3fd1db05-3caa-47b3-a1de-7eb77dd29a9f",
+  "host" : "N/A",
+  "created_at" : "3/10/2025 18:56:19"
+}, {
+  "id" : 13,
+  "path" : "N/A",
+  "method" : "N/A",
+  "parameters" : "N/A",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "957b9528-66b5-40b9-a854-779b9dda3066",
+  "host" : "N/A",
+  "created_at" : "3/10/2025 18:56:19"
+}, {
+  "id" : 14,
+  "path" : "N/A",
+  "method" : "N/A",
+  "parameters" : "N/A",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "2415947c-3e51-4d75-bf68-193e6d96192f",
+  "host" : "N/A",
+  "created_at" : "3/10/2025 18:56:19"
+}, {
+  "id" : 15,
+  "path" : "N/A",
+  "method" : "N/A",
+  "parameters" : "N/A",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "f78a711f-147c-4552-a2c4-c5c12d0428bf",
+  "host" : "N/A",
+  "created_at" : "3/10/2025 18:56:19"
+}, {
+  "id" : 16,
+  "path" : "N/A",
+  "method" : "N/A",
+  "parameters" : "N/A",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "0f28e90a-09ca-4ac1-b6d5-bea2c7f16a49",
+  "host" : "N/A",
+  "created_at" : "3/10/2025 18:56:19"
+}, {
+  "id" : 17,
+  "path" : "N/A",
+  "method" : "N/A",
+  "parameters" : "N/A",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "3198cbcf-4cb1-47f7-8592-6004b52f1e06",
+  "host" : "N/A",
+  "created_at" : "3/10/2025 18:56:19"
+}, {
+  "id" : 18,
+  "path" : "N/A",
+  "method" : "N/A",
+  "parameters" : "N/A",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "8ebebdeb-10a3-468c-bb48-65555b3b6a20",
+  "host" : "N/A",
+  "created_at" : "3/10/2025 18:56:19"
+}, {
+  "id" : 19,
+  "path" : "N/A",
+  "method" : "N/A",
+  "parameters" : "N/A",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "ae37032e-5f0e-4c78-9cf8-42b5041f0bf3",
+  "host" : "N/A",
+  "created_at" : "3/10/2025 18:56:19"
+}, {
+  "id" : 20,
+  "path" : "N/A",
+  "method" : "N/A",
+  "parameters" : "N/A",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "0967529b-7fd2-497b-9f3b-8ceeb7c4a073",
+  "host" : "N/A",
+  "created_at" : "3/10/2025 18:56:19"
+}, {
+  "id" : 21,
+  "path" : "/FileSystem/get/fileInputStreamReadFile.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "ab548f05-e9b5-4125-8adf-abfbab7bca63",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:28"
+}, {
+  "id" : 22,
+  "path" : "/FileSystem/get/fileInputStreamReadFile.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.FileSystemController.getFileInputStreamReadFile",
+  "response" : "N/A",
+  "uuid" : "0557b15e-fc8d-4b02-9713-f7ece16cc1a1",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:28"
+}, {
+  "id" : 23,
+  "path" : "/FileSystem/get/fileInputStreamReadFile.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "private org.springframework.http.ResponseEntity org.javaweb.vuln.controller.FileSystemController.fileInputStreamReadFile",
+  "response" : "N/A",
+  "uuid" : "2d22f30e-6e32-4eee-91f6-217dd560ad69",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:28"
+}, {
+  "id" : 24,
+  "path" : "/FileSystem/post/fileInputStreamReadFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "bc93cae4-b2c2-4cdb-80bf-ffd352b03097",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:28"
+}, {
+  "id" : 25,
+  "path" : "/FileSystem/post/fileInputStreamReadFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.FileSystemController.postFileInputStreamReadFile",
+  "response" : "N/A",
+  "uuid" : "1d2e4a45-c52c-4b2b-9831-40dc592dd873",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:28"
+}, {
+  "id" : 26,
+  "path" : "/FileSystem/post/fileInputStreamReadFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "private org.springframework.http.ResponseEntity org.javaweb.vuln.controller.FileSystemController.fileInputStreamReadFile",
+  "response" : "N/A",
+  "uuid" : "c5a541c4-bfe3-4a83-ac7f-b81696143516",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:28"
+}, {
+  "id" : 27,
+  "path" : "/FileSystem/cookie/fileInputStreamReadFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "487733a1-5a8c-4d1b-a123-e900c99ae694",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:28"
+}, {
+  "id" : 28,
+  "path" : "/FileSystem/cookie/fileInputStreamReadFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.FileSystemController.cookieFileInputStreamReadFile",
+  "response" : "N/A",
+  "uuid" : "5c3e340c-4cd4-4728-8f31-855f117a8ea3",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:28"
+}, {
+  "id" : 29,
+  "path" : "/FileSystem/cookie/fileInputStreamReadFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "private org.springframework.http.ResponseEntity org.javaweb.vuln.controller.FileSystemController.fileInputStreamReadFile",
+  "response" : "N/A",
+  "uuid" : "c58da3e6-bb11-440a-88a3-5cbe251a3f31",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:28"
+}, {
+  "id" : 30,
+  "path" : "/FileSystem/header/fileInputStreamReadFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "03e15b37-c51d-4e92-9fdb-df994c3e496d",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:28"
+}, {
+  "id" : 31,
+  "path" : "/FileSystem/header/fileInputStreamReadFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.FileSystemController.headerFileInputStreamReadFile",
+  "response" : "N/A",
+  "uuid" : "e2cd19f0-217a-4632-9c93-9d02c830282b",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:28"
+}, {
+  "id" : 32,
+  "path" : "/FileSystem/header/fileInputStreamReadFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "private org.springframework.http.ResponseEntity org.javaweb.vuln.controller.FileSystemController.fileInputStreamReadFile",
+  "response" : "N/A",
+  "uuid" : "a9cfc90f-852e-46f9-92c7-5c396269ef36",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:28"
+}, {
+  "id" : 33,
+  "path" : "/FileSystem/json/fileInputStreamReadFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "6883a8ad-392a-4d55-828e-370c4cee5740",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:28"
+}, {
+  "id" : 34,
+  "path" : "/FileSystem/json/fileInputStreamReadFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.FileSystemController.jsonFileInputStreamReadFile",
+  "response" : "N/A",
+  "uuid" : "ef94ca2f-7937-48d5-baa6-6377a51b3cfa",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:28"
+}, {
+  "id" : 35,
+  "path" : "/FileSystem/json/fileInputStreamReadFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "private org.springframework.http.ResponseEntity org.javaweb.vuln.controller.FileSystemController.fileInputStreamReadFile",
+  "response" : "N/A",
+  "uuid" : "12bb03d4-ffb4-45ef-9801-93b03f0baa0b",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:28"
+}, {
+  "id" : 36,
+  "path" : "/FileSystem/xml/fileInputStreamReadFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "fad1954b-f18a-4a9b-b254-e4f50619bcac",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:28"
+}, {
+  "id" : 37,
+  "path" : "/FileSystem/xml/fileInputStreamReadFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.FileSystemController.xmlFileInputStreamReadFile",
+  "response" : "N/A",
+  "uuid" : "829e725f-1ba6-435b-b9ce-0606bd299063",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:28"
+}, {
+  "id" : 38,
+  "path" : "/FileSystem/xml/fileInputStreamReadFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "private org.springframework.http.ResponseEntity org.javaweb.vuln.controller.FileSystemController.fileInputStreamReadFile",
+  "response" : "N/A",
+  "uuid" : "28ca6efa-0db2-40d4-aedb-ff4fe692824b",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:28"
+}, {
+  "id" : 39,
+  "path" : "/FileSystem/post/fileInputStreamReadFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "01c8f7d6-2e3b-4779-b95d-8dae25de50f3",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:29"
+}, {
+  "id" : 40,
+  "path" : "/FileSystem/post/fileInputStreamReadFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.FileSystemController.postFileInputStreamReadFile",
+  "response" : "N/A",
+  "uuid" : "1aa2b363-ff8f-40a1-9475-ed9dd7f6d04d",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:29"
+}, {
+  "id" : 41,
+  "path" : "/FileSystem/post/fileInputStreamReadFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "private org.springframework.http.ResponseEntity org.javaweb.vuln.controller.FileSystemController.fileInputStreamReadFile",
+  "response" : "N/A",
+  "uuid" : "a31dab6a-bcab-4321-82a8-570d25937e4a",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:29"
+}, {
+  "id" : 42,
+  "path" : "/FileSystem/get/randomAccessFileReadFile.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "8b392314-38d7-40d9-ba4f-66f9c46ddb62",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:29"
+}, {
+  "id" : 43,
+  "path" : "/FileSystem/get/randomAccessFileReadFile.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.FileSystemController.getRandomAccessFileReadFile",
+  "response" : "N/A",
+  "uuid" : "56f1d2bb-80ba-4099-ba33-4ae9ec1da34f",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:29"
+}, {
+  "id" : 44,
+  "path" : "/FileSystem/get/randomAccessFileReadFile.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "private org.springframework.http.ResponseEntity org.javaweb.vuln.controller.FileSystemController.randomAccessFileReadFile",
+  "response" : "N/A",
+  "uuid" : "e224ebbb-3616-4268-93be-b0c5d7d877fe",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:29"
+}, {
+  "id" : 45,
+  "path" : "/FileSystem/post/randomAccessFileReadFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "874c7d67-eb4b-4907-bb97-2ae7e9e8694e",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:29"
+}, {
+  "id" : 46,
+  "path" : "/FileSystem/post/randomAccessFileReadFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.FileSystemController.postRandomAccessFileReadFile",
+  "response" : "N/A",
+  "uuid" : "c8b701e7-fb2d-46b1-8743-68672399bfd2",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:29"
+}, {
+  "id" : 47,
+  "path" : "/FileSystem/post/randomAccessFileReadFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "private org.springframework.http.ResponseEntity org.javaweb.vuln.controller.FileSystemController.randomAccessFileReadFile",
+  "response" : "N/A",
+  "uuid" : "bb28879c-4031-4911-a402-11fe5b186ea1",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:29"
+}, {
+  "id" : 48,
+  "path" : "/FileSystem/cookie/randomAccessFileReadFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "88318c2c-e505-4124-b1cc-b7b7c47fa0eb",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:29"
+}, {
+  "id" : 49,
+  "path" : "/FileSystem/cookie/randomAccessFileReadFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.FileSystemController.cookieRandomAccessFileReadFile",
+  "response" : "N/A",
+  "uuid" : "8fd4c80e-9cd7-4893-96d1-69c297dcb379",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:29"
+}, {
+  "id" : 50,
+  "path" : "/FileSystem/cookie/randomAccessFileReadFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "private org.springframework.http.ResponseEntity org.javaweb.vuln.controller.FileSystemController.randomAccessFileReadFile",
+  "response" : "N/A",
+  "uuid" : "b293af6b-8c69-457c-bc35-b45583e73f0c",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:29"
+}, {
+  "id" : 51,
+  "path" : "/FileSystem/header/randomAccessFileReadFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "d142768f-cbdb-44b5-9155-2d5fce860a59",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:29"
+}, {
+  "id" : 52,
+  "path" : "/FileSystem/header/randomAccessFileReadFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.FileSystemController.headerRandomAccessFileReadFile",
+  "response" : "N/A",
+  "uuid" : "b1b696f7-d253-45fd-bda6-99600770bcb9",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:29"
+}, {
+  "id" : 53,
+  "path" : "/FileSystem/header/randomAccessFileReadFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "private org.springframework.http.ResponseEntity org.javaweb.vuln.controller.FileSystemController.randomAccessFileReadFile",
+  "response" : "N/A",
+  "uuid" : "a2bb7472-411d-4865-9806-2dbf3e788f79",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:29"
+}, {
+  "id" : 54,
+  "path" : "/FileSystem/json/randomAccessFileReadFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "369253ed-091c-412a-9648-25c004e768da",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:29"
+}, {
+  "id" : 55,
+  "path" : "/FileSystem/json/randomAccessFileReadFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.FileSystemController.jsonRandomAccessFileReadFile",
+  "response" : "N/A",
+  "uuid" : "c5f489b6-dd61-4c6c-b122-a711233bf9fa",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:29"
+}, {
+  "id" : 56,
+  "path" : "/FileSystem/json/randomAccessFileReadFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "private org.springframework.http.ResponseEntity org.javaweb.vuln.controller.FileSystemController.randomAccessFileReadFile",
+  "response" : "N/A",
+  "uuid" : "73795bf1-ff48-42fb-9d8e-55f08cabe692",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:29"
+}, {
+  "id" : 57,
+  "path" : "/FileSystem/xml/randomAccessFileReadFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "466a26e2-2659-4017-b146-377d267c1d60",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:29"
+}, {
+  "id" : 58,
+  "path" : "/FileSystem/xml/randomAccessFileReadFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.FileSystemController.xmlRandomAccessFileReadFile",
+  "response" : "N/A",
+  "uuid" : "158277b9-a3ca-4029-a55c-b0ab228fde6f",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:29"
+}, {
+  "id" : 59,
+  "path" : "/FileSystem/xml/randomAccessFileReadFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "private org.springframework.http.ResponseEntity org.javaweb.vuln.controller.FileSystemController.randomAccessFileReadFile",
+  "response" : "N/A",
+  "uuid" : "72ba7c0b-bb76-4bba-9fb7-cc2ad77fdecd",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:29"
+}, {
+  "id" : 60,
+  "path" : "/FileSystem/post/randomAccessFileReadFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "0ba3ce21-0afb-4466-9bac-95e1ff8637c4",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:29"
+}, {
+  "id" : 61,
+  "path" : "/FileSystem/post/randomAccessFileReadFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.FileSystemController.postRandomAccessFileReadFile",
+  "response" : "N/A",
+  "uuid" : "bcf85904-4bd3-4d39-a8bc-e0e5f137297f",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:29"
+}, {
+  "id" : 62,
+  "path" : "/FileSystem/post/randomAccessFileReadFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "private org.springframework.http.ResponseEntity org.javaweb.vuln.controller.FileSystemController.randomAccessFileReadFile",
+  "response" : "N/A",
+  "uuid" : "01c5f080-c5d8-4f67-a7af-c7f16a97741f",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:29"
+}, {
+  "id" : 63,
+  "path" : "/FileSystem/get/filesReadAllBytes.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "4b93e73d-4b1d-4f82-b96f-ab9753c3f620",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:29"
+}, {
+  "id" : 64,
+  "path" : "/FileSystem/get/filesReadAllBytes.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.FileSystemController.getFilesReadAllBytes",
+  "response" : "N/A",
+  "uuid" : "d14ff56d-c279-404d-b105-51065ad3b819",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:29"
+}, {
+  "id" : 65,
+  "path" : "/FileSystem/get/filesReadAllBytes.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "private org.springframework.http.ResponseEntity org.javaweb.vuln.controller.FileSystemController.filesReadAllBytes",
+  "response" : "N/A",
+  "uuid" : "04fdbd52-904b-4241-9f7f-35993a2dd636",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:29"
+}, {
+  "id" : 66,
+  "path" : "/FileSystem/post/filesReadAllBytes.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "4a5cd40f-c4f2-4a97-b9aa-4edad0023b37",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:29"
+}, {
+  "id" : 67,
+  "path" : "/FileSystem/post/filesReadAllBytes.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.FileSystemController.postFilesReadAllBytes",
+  "response" : "N/A",
+  "uuid" : "1023df36-8c7c-4eae-b00d-4d48dd67be4f",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:29"
+}, {
+  "id" : 68,
+  "path" : "/FileSystem/post/filesReadAllBytes.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "private org.springframework.http.ResponseEntity org.javaweb.vuln.controller.FileSystemController.filesReadAllBytes",
+  "response" : "N/A",
+  "uuid" : "47c81119-07c0-4433-a1ee-b47fcdeb9d28",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:29"
+}, {
+  "id" : 69,
+  "path" : "/FileSystem/cookie/filesReadAllBytes.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "2c4d4693-deb6-45e4-b22b-2155f4ea0089",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:29"
+}, {
+  "id" : 70,
+  "path" : "/FileSystem/cookie/filesReadAllBytes.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.FileSystemController.cookieFilesReadAllBytes",
+  "response" : "N/A",
+  "uuid" : "6aa9fe35-c98a-40ba-8c66-e909b873557a",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:29"
+}, {
+  "id" : 71,
+  "path" : "/FileSystem/cookie/filesReadAllBytes.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "private org.springframework.http.ResponseEntity org.javaweb.vuln.controller.FileSystemController.filesReadAllBytes",
+  "response" : "N/A",
+  "uuid" : "48810670-699a-4b40-b99c-cf4696947b82",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:29"
+}, {
+  "id" : 72,
+  "path" : "/FileSystem/header/filesReadAllBytes.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "d75fac02-a108-4b3e-992d-a2f6cec7dc02",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:29"
+}, {
+  "id" : 73,
+  "path" : "/FileSystem/header/filesReadAllBytes.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.FileSystemController.headerFilesReadAllBytes",
+  "response" : "N/A",
+  "uuid" : "58908aec-37fb-4ba7-b2c2-7da3a9069db9",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:29"
+}, {
+  "id" : 74,
+  "path" : "/FileSystem/header/filesReadAllBytes.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "private org.springframework.http.ResponseEntity org.javaweb.vuln.controller.FileSystemController.filesReadAllBytes",
+  "response" : "N/A",
+  "uuid" : "be1a4b28-97d1-4fcc-82fc-a51f2d1a56f7",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:29"
+}, {
+  "id" : 75,
+  "path" : "/FileSystem/json/filesReadAllBytes.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "b9d05b21-39bf-4419-9a96-d99190b259c2",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:29"
+}, {
+  "id" : 76,
+  "path" : "/FileSystem/json/filesReadAllBytes.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.FileSystemController.jsonFilesReadAllBytes",
+  "response" : "N/A",
+  "uuid" : "30d737ab-6b29-4177-bfe8-f7749670734b",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:29"
+}, {
+  "id" : 77,
+  "path" : "/FileSystem/json/filesReadAllBytes.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "private org.springframework.http.ResponseEntity org.javaweb.vuln.controller.FileSystemController.filesReadAllBytes",
+  "response" : "N/A",
+  "uuid" : "2f9b9fd9-9e6a-4120-9f5b-173fa4cd78ea",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:29"
+}, {
+  "id" : 78,
+  "path" : "/FileSystem/xml/filesReadAllBytes.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "a7b55fb0-6945-4ce9-bd15-685f4bf7c904",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:29"
+}, {
+  "id" : 79,
+  "path" : "/FileSystem/xml/filesReadAllBytes.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.FileSystemController.xmlFilesReadAllBytes",
+  "response" : "N/A",
+  "uuid" : "78dd88e9-9639-4d6e-9a21-b8e53436962f",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:29"
+}, {
+  "id" : 80,
+  "path" : "/FileSystem/xml/filesReadAllBytes.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "private org.springframework.http.ResponseEntity org.javaweb.vuln.controller.FileSystemController.filesReadAllBytes",
+  "response" : "N/A",
+  "uuid" : "0c046c50-a1e6-4c1a-b351-861b50456df6",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:29"
+}, {
+  "id" : 81,
+  "path" : "/FileSystem/post/filesReadAllBytes.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "f0054a87-60e7-4442-86f3-2ba34b9b26cd",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:29"
+}, {
+  "id" : 82,
+  "path" : "/FileSystem/post/filesReadAllBytes.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.FileSystemController.postFilesReadAllBytes",
+  "response" : "N/A",
+  "uuid" : "949316a0-a9d2-4232-8abc-d88695324442",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:29"
+}, {
+  "id" : 83,
+  "path" : "/FileSystem/post/filesReadAllBytes.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "private org.springframework.http.ResponseEntity org.javaweb.vuln.controller.FileSystemController.filesReadAllBytes",
+  "response" : "N/A",
+  "uuid" : "32a4182f-c621-4fb3-912b-51379265f17b",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:29"
+}, {
+  "id" : 84,
+  "path" : "/FileSystem/get/fileOutStreamWriteFile.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "6402485d-1a19-4f91-9e98-2bdd3e568665",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:29"
+}, {
+  "id" : 85,
+  "path" : "/FileSystem/get/fileOutStreamWriteFile.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.getFileOutStreamWriteFile",
+  "response" : "N/A",
+  "uuid" : "9dabfd28-f695-43d4-9272-ea45bf33d259",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:29"
+}, {
+  "id" : 86,
+  "path" : "/FileSystem/get/fileOutStreamWriteFile.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.fileOutStreamWriteFile",
+  "response" : "N/A",
+  "uuid" : "6c785b38-d776-470d-80d2-11a25fe3e9bb",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:29"
+}, {
+  "id" : 87,
+  "path" : "/FileSystem/post/fileOutStreamWriteFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "b97b9c2e-2771-4f52-a66d-ba38a5fbb590",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:29"
+}, {
+  "id" : 88,
+  "path" : "/FileSystem/post/fileOutStreamWriteFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.postFileOutStreamWriteFile",
+  "response" : "N/A",
+  "uuid" : "bbefbefd-d713-43e9-80e9-3bff32e7b010",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:29"
+}, {
+  "id" : 89,
+  "path" : "/FileSystem/post/fileOutStreamWriteFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.fileOutStreamWriteFile",
+  "response" : "N/A",
+  "uuid" : "7eaf2eef-997a-4067-a48c-069c9a3b797d",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:29"
+}, {
+  "id" : 90,
+  "path" : "/FileSystem/cookie/fileOutStreamWriteFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "105eabec-0b28-468a-a2c7-279ce492bad0",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:29"
+}, {
+  "id" : 91,
+  "path" : "/FileSystem/cookie/fileOutStreamWriteFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.cookieFileOutStreamWriteFile",
+  "response" : "N/A",
+  "uuid" : "fb3a8541-e2b3-4f99-a323-e380d5e49803",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:29"
+}, {
+  "id" : 92,
+  "path" : "/FileSystem/cookie/fileOutStreamWriteFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.fileOutStreamWriteFile",
+  "response" : "N/A",
+  "uuid" : "896f8649-8925-4d82-8738-4eb8d7d5d2f0",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:29"
+}, {
+  "id" : 93,
+  "path" : "/FileSystem/header/fileOutStreamWriteFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "19141a10-2400-4f0b-afeb-646b783709d0",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:30"
+}, {
+  "id" : 94,
+  "path" : "/FileSystem/header/fileOutStreamWriteFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.headerFileOutStreamWriteFile",
+  "response" : "N/A",
+  "uuid" : "cfe49f29-d4a4-46d7-831f-81d3ff4d0e4e",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:30"
+}, {
+  "id" : 95,
+  "path" : "/FileSystem/header/fileOutStreamWriteFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.fileOutStreamWriteFile",
+  "response" : "N/A",
+  "uuid" : "a67bc70d-150a-42fa-8cf2-682c6d9fc4ff",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:30"
+}, {
+  "id" : 96,
+  "path" : "/FileSystem/json/fileOutStreamWriteFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "fc04ef0f-c439-497d-b899-8f8601fb42b3",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:30"
+}, {
+  "id" : 97,
+  "path" : "/FileSystem/json/fileOutStreamWriteFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.jsonFileOutStreamWriteFile",
+  "response" : "N/A",
+  "uuid" : "b6cfe6da-7569-4f3c-9691-e108e1749567",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:30"
+}, {
+  "id" : 98,
+  "path" : "/FileSystem/json/fileOutStreamWriteFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.fileOutStreamWriteFile",
+  "response" : "N/A",
+  "uuid" : "009f497c-5d80-495a-b79f-288b2f76b471",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:30"
+}, {
+  "id" : 99,
+  "path" : "/FileSystem/xml/fileOutStreamWriteFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "806c129c-5bca-4a7a-aac9-effd4e5fb135",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:30"
+}, {
+  "id" : 100,
+  "path" : "/FileSystem/xml/fileOutStreamWriteFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.xmlFileOutStreamWriteFile",
+  "response" : "N/A",
+  "uuid" : "c1a38efa-44e1-40d4-bb5f-7651bb9a582f",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:30"
+}, {
+  "id" : 101,
+  "path" : "/FileSystem/xml/fileOutStreamWriteFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.fileOutStreamWriteFile",
+  "response" : "N/A",
+  "uuid" : "fae4d518-fff5-4d3a-92e5-9a1956b71d74",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:30"
+}, {
+  "id" : 102,
+  "path" : "/FileSystem/post/fileOutStreamWriteFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "ba7ae7e6-ad14-4b68-99fa-26dd0d9d8c76",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:30"
+}, {
+  "id" : 103,
+  "path" : "/FileSystem/post/fileOutStreamWriteFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.postFileOutStreamWriteFile",
+  "response" : "N/A",
+  "uuid" : "6a012c71-422c-4dea-93d4-9a06d8f28a15",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:30"
+}, {
+  "id" : 104,
+  "path" : "/FileSystem/post/fileOutStreamWriteFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.fileOutStreamWriteFile",
+  "response" : "N/A",
+  "uuid" : "f839c8d1-c4c7-4ee6-acc3-6f48a6c583d8",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:30"
+}, {
+  "id" : 105,
+  "path" : "/FileSystem/get/randomAccessFileWriteFile.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "51216f12-43fb-446b-81f0-e9fba96f23a4",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:30"
+}, {
+  "id" : 106,
+  "path" : "/FileSystem/get/randomAccessFileWriteFile.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.getRandomAccessFileWriteFile",
+  "response" : "N/A",
+  "uuid" : "09d45498-64fa-4ebb-a669-de61537bfb84",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:30"
+}, {
+  "id" : 107,
+  "path" : "/FileSystem/get/randomAccessFileWriteFile.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.randomAccessFileWriteFile",
+  "response" : "N/A",
+  "uuid" : "fd061520-ad4e-4814-a0f2-3f26798f6d01",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:30"
+}, {
+  "id" : 108,
+  "path" : "/FileSystem/post/randomAccessFileWriteFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "60d66241-d32a-4125-9a65-2495b99091b5",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:30"
+}, {
+  "id" : 109,
+  "path" : "/FileSystem/post/randomAccessFileWriteFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.postRandomAccessFileWriteFile",
+  "response" : "N/A",
+  "uuid" : "7b5636fe-3395-4340-9323-e6d35fa621a8",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:30"
+}, {
+  "id" : 110,
+  "path" : "/FileSystem/post/randomAccessFileWriteFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.randomAccessFileWriteFile",
+  "response" : "N/A",
+  "uuid" : "2d0acdce-819e-4382-837a-0c3ce39dc889",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:30"
+}, {
+  "id" : 111,
+  "path" : "/FileSystem/cookie/randomAccessFileWriteFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "4fb7a403-b21e-4d0e-8b30-d778effe6098",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:30"
+}, {
+  "id" : 112,
+  "path" : "/FileSystem/cookie/randomAccessFileWriteFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.cookieRandomAccessFileWriteFile",
+  "response" : "N/A",
+  "uuid" : "dbf0595c-f3e7-4acc-b817-7fe31b313297",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:30"
+}, {
+  "id" : 113,
+  "path" : "/FileSystem/cookie/randomAccessFileWriteFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.randomAccessFileWriteFile",
+  "response" : "N/A",
+  "uuid" : "91f70805-0953-4bf6-8d71-8f65cb78a110",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:30"
+}, {
+  "id" : 114,
+  "path" : "/FileSystem/header/randomAccessFileWriteFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "d7c0985e-7e9e-4af9-8007-06c7b12637d8",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:30"
+}, {
+  "id" : 115,
+  "path" : "/FileSystem/header/randomAccessFileWriteFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.headerRandomAccessFileWriteFile",
+  "response" : "N/A",
+  "uuid" : "b2b5940b-6f41-42c7-be7b-46cef2caf02d",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:30"
+}, {
+  "id" : 116,
+  "path" : "/FileSystem/header/randomAccessFileWriteFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.randomAccessFileWriteFile",
+  "response" : "N/A",
+  "uuid" : "3cdd594c-cf13-436d-8de0-c712f19856cd",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:30"
+}, {
+  "id" : 117,
+  "path" : "/FileSystem/json/randomAccessFileWriteFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "4ecd4105-7e07-47ad-afec-0082483b5fc3",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:30"
+}, {
+  "id" : 118,
+  "path" : "/FileSystem/json/randomAccessFileWriteFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.jsonRandomAccessFileWriteFile",
+  "response" : "N/A",
+  "uuid" : "9f81bb77-4077-4048-a937-011e49db3b14",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:30"
+}, {
+  "id" : 119,
+  "path" : "/FileSystem/json/randomAccessFileWriteFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.randomAccessFileWriteFile",
+  "response" : "N/A",
+  "uuid" : "562e6f10-61b0-45b6-ba3f-cc5c08f9047a",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:30"
+}, {
+  "id" : 120,
+  "path" : "/FileSystem/xml/randomAccessFileWriteFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "572169d1-0352-4e03-97a9-c0cae523dbd4",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:30"
+}, {
+  "id" : 121,
+  "path" : "/FileSystem/xml/randomAccessFileWriteFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.xmlRandomAccessFileWriteFile",
+  "response" : "N/A",
+  "uuid" : "4b1b0318-9a90-463d-90ac-a92c34fe1cef",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:30"
+}, {
+  "id" : 122,
+  "path" : "/FileSystem/xml/randomAccessFileWriteFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.randomAccessFileWriteFile",
+  "response" : "N/A",
+  "uuid" : "9b6991fd-9895-4779-8677-9479e53e2e6f",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:30"
+}, {
+  "id" : 123,
+  "path" : "/FileSystem/post/randomAccessFileWriteFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "8c6d1d11-247c-4348-af5a-74dc2fdf960e",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:30"
+}, {
+  "id" : 124,
+  "path" : "/FileSystem/post/randomAccessFileWriteFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.postRandomAccessFileWriteFile",
+  "response" : "N/A",
+  "uuid" : "e8534ee0-243b-4814-856f-9548f926adf8",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:30"
+}, {
+  "id" : 125,
+  "path" : "/FileSystem/post/randomAccessFileWriteFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.randomAccessFileWriteFile",
+  "response" : "N/A",
+  "uuid" : "23d5306f-a5fe-42c0-b59b-2e1f67d15e71",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:30"
+}, {
+  "id" : 126,
+  "path" : "/FileSystem/get/filesWrite.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "49779f50-4aaa-41eb-8c51-6885fd98da33",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:30"
+}, {
+  "id" : 127,
+  "path" : "/FileSystem/get/filesWrite.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.getfilesWrite",
+  "response" : "N/A",
+  "uuid" : "84ee2e7f-ef18-45de-bf2c-7b015c1a1025",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:30"
+}, {
+  "id" : 128,
+  "path" : "/FileSystem/get/filesWrite.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.filesWrite",
+  "response" : "N/A",
+  "uuid" : "3f07bee2-5328-4b33-9510-605c83560ab4",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:30"
+}, {
+  "id" : 129,
+  "path" : "/FileSystem/post/filesWrite.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "bcaf022e-4482-4363-bea7-e218c87330ef",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:30"
+}, {
+  "id" : 130,
+  "path" : "/FileSystem/post/filesWrite.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.postfilesWrite",
+  "response" : "N/A",
+  "uuid" : "cc4290bd-adaa-4943-a0b0-640ee0d70b2e",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:30"
+}, {
+  "id" : 131,
+  "path" : "/FileSystem/post/filesWrite.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.filesWrite",
+  "response" : "N/A",
+  "uuid" : "e6d1c61f-575f-4c83-84e3-89c1b09732e1",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:30"
+}, {
+  "id" : 132,
+  "path" : "/FileSystem/cookie/filesWrite.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "e8384245-b951-4169-ab9f-4324ea6faf44",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:30"
+}, {
+  "id" : 133,
+  "path" : "/FileSystem/cookie/filesWrite.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.cookiefilesWrite",
+  "response" : "N/A",
+  "uuid" : "72a022ea-a4f9-4f39-9580-ded4cdc78020",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:30"
+}, {
+  "id" : 134,
+  "path" : "/FileSystem/cookie/filesWrite.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.filesWrite",
+  "response" : "N/A",
+  "uuid" : "05d54e56-e9ae-4eb9-8dd0-6b51fc907f03",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:30"
+}, {
+  "id" : 135,
+  "path" : "/FileSystem/header/filesWrite.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "f262cab9-a951-47bc-9c85-615e61596679",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:30"
+}, {
+  "id" : 136,
+  "path" : "/FileSystem/header/filesWrite.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.headerfilesWrite",
+  "response" : "N/A",
+  "uuid" : "65f391ab-a5d4-48e8-9dbc-be2afa887389",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:30"
+}, {
+  "id" : 137,
+  "path" : "/FileSystem/header/filesWrite.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.filesWrite",
+  "response" : "N/A",
+  "uuid" : "d4770f8e-f692-45f6-8224-799d983e4aff",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:30"
+}, {
+  "id" : 138,
+  "path" : "/FileSystem/json/filesWrite.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "d35877a9-ea4f-4e4e-b818-10f519baa923",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:30"
+}, {
+  "id" : 139,
+  "path" : "/FileSystem/json/filesWrite.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.jsonFilesWrite",
+  "response" : "N/A",
+  "uuid" : "c1e0d981-8864-466b-b317-f1bdbfb4d22b",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:30"
+}, {
+  "id" : 140,
+  "path" : "/FileSystem/json/filesWrite.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.filesWrite",
+  "response" : "N/A",
+  "uuid" : "ff8d9b81-44bc-4457-a57d-9bc4317e3a74",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:30"
+}, {
+  "id" : 141,
+  "path" : "/FileSystem/xml/filesWrite.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "0af16ede-4cd8-4098-a15e-d362914a3601",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:30"
+}, {
+  "id" : 142,
+  "path" : "/FileSystem/xml/filesWrite.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.xmlFilesWrite",
+  "response" : "N/A",
+  "uuid" : "2956912b-527d-4661-82e8-b8477c504c5f",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:30"
+}, {
+  "id" : 143,
+  "path" : "/FileSystem/xml/filesWrite.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.filesWrite",
+  "response" : "N/A",
+  "uuid" : "7aa29016-e7da-44b3-8c20-ef80d7dee78a",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:30"
+}, {
+  "id" : 144,
+  "path" : "/FileSystem/post/filesWrite.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "7f38ba70-b427-4782-bc0c-54cf44e3266c",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:30"
+}, {
+  "id" : 145,
+  "path" : "/FileSystem/post/filesWrite.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.postfilesWrite",
+  "response" : "N/A",
+  "uuid" : "68ac7ff8-0711-40a6-9f02-c8a930fa7821",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:30"
+}, {
+  "id" : 146,
+  "path" : "/FileSystem/post/filesWrite.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.filesWrite",
+  "response" : "N/A",
+  "uuid" : "a28fb553-f259-43f5-9a07-234e8b18f55f",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:30"
+}, {
+  "id" : 147,
+  "path" : "/FileSystem/get/deleteFile.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "a446515a-e5dd-4106-8e0c-86be3096736a",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:31"
+}, {
+  "id" : 148,
+  "path" : "/FileSystem/get/deleteFile.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.getDeleteFile",
+  "response" : "N/A",
+  "uuid" : "2f4ac90b-6aed-402a-812b-19c6802260c2",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:31"
+}, {
+  "id" : 149,
+  "path" : "/FileSystem/get/deleteFile.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.fileDelete",
+  "response" : "N/A",
+  "uuid" : "f669c172-30bf-436c-a98c-fe5478742d11",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:31"
+}, {
+  "id" : 150,
+  "path" : "/FileSystem/post/deleteFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "7890ea4d-6f92-47da-b3f8-b8bf6a9a958d",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:31"
+}, {
+  "id" : 151,
+  "path" : "/FileSystem/post/deleteFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.postDeleteFile",
+  "response" : "N/A",
+  "uuid" : "9dd4ddd7-b0b1-4d32-a3bd-fd1a5f04ec25",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:31"
+}, {
+  "id" : 152,
+  "path" : "/FileSystem/post/deleteFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.fileDelete",
+  "response" : "N/A",
+  "uuid" : "5a430256-8db2-4f0c-8266-7e33db2ea7c9",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:31"
+}, {
+  "id" : 153,
+  "path" : "/FileSystem/cookie/deleteFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "28dbab2d-8610-4620-bd32-79a70a8f24f8",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:31"
+}, {
+  "id" : 154,
+  "path" : "/FileSystem/cookie/deleteFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.cookieDeleteFile",
+  "response" : "N/A",
+  "uuid" : "bbcc738b-044e-426e-ac73-1c516c2e5475",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:31"
+}, {
+  "id" : 155,
+  "path" : "/FileSystem/cookie/deleteFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.fileDelete",
+  "response" : "N/A",
+  "uuid" : "fac09992-8e2e-4d48-864c-2789575e7806",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:31"
+}, {
+  "id" : 156,
+  "path" : "/FileSystem/header/deleteFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "98cd156c-cbfa-4c52-8892-30c8483cd816",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:31"
+}, {
+  "id" : 157,
+  "path" : "/FileSystem/header/deleteFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.headerDeleteFile",
+  "response" : "N/A",
+  "uuid" : "89fedab3-6d8a-4beb-965d-ac027e8df714",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:31"
+}, {
+  "id" : 158,
+  "path" : "/FileSystem/header/deleteFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.fileDelete",
+  "response" : "N/A",
+  "uuid" : "1635141f-ec25-4be8-aea2-913a39865cab",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:31"
+}, {
+  "id" : 159,
+  "path" : "/FileSystem/json/deleteFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "f4f13d21-9d9b-455a-b46c-59058772d211",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:31"
+}, {
+  "id" : 160,
+  "path" : "/FileSystem/json/deleteFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.jsonDeleteFile",
+  "response" : "N/A",
+  "uuid" : "92943aea-b979-4512-9d85-88ae90e9aa1b",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:31"
+}, {
+  "id" : 161,
+  "path" : "/FileSystem/json/deleteFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.fileDelete",
+  "response" : "N/A",
+  "uuid" : "8bbbf6b8-c11c-4d2d-bcc6-e4de4f8eead3",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:31"
+}, {
+  "id" : 162,
+  "path" : "/FileSystem/xml/deleteFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "16119417-f94b-4248-a14d-86110a2118bf",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:31"
+}, {
+  "id" : 163,
+  "path" : "/FileSystem/xml/deleteFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.xmlDeleteFile",
+  "response" : "N/A",
+  "uuid" : "0d96fa88-73d6-4f52-b02e-52ec52d43011",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:31"
+}, {
+  "id" : 164,
+  "path" : "/FileSystem/xml/deleteFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.fileDelete",
+  "response" : "N/A",
+  "uuid" : "43ef2b8a-b510-4f00-9d74-aa432174c90d",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:31"
+}, {
+  "id" : 165,
+  "path" : "/FileSystem/post/deleteFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "4d15301e-1957-4aeb-b938-ae8a6dcde814",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:31"
+}, {
+  "id" : 166,
+  "path" : "/FileSystem/post/deleteFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.postDeleteFile",
+  "response" : "N/A",
+  "uuid" : "336f5427-f39b-4a56-b032-befa35ff4efe",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:31"
+}, {
+  "id" : 167,
+  "path" : "/FileSystem/post/deleteFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.fileDelete",
+  "response" : "N/A",
+  "uuid" : "acf15ec3-08d6-4c02-a04b-fe6704730842",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:31"
+}, {
+  "id" : 168,
+  "path" : "/FileSystem/get/renameTo.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "e5a2df69-98d6-4d30-9621-be865db30b27",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:31"
+}, {
+  "id" : 169,
+  "path" : "/FileSystem/get/renameTo.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.getRenameTo",
+  "response" : "N/A",
+  "uuid" : "97643880-4bc7-4599-9867-b8765faa8a64",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:31"
+}, {
+  "id" : 170,
+  "path" : "/FileSystem/get/renameTo.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.renameTo",
+  "response" : "N/A",
+  "uuid" : "773f7265-27d5-4ce7-9602-62ba220bdd66",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:31"
+}, {
+  "id" : 171,
+  "path" : "/FileSystem/post/renameTo.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "ff940e7a-6af5-4561-b7a6-692c5a44bcc3",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:31"
+}, {
+  "id" : 172,
+  "path" : "/FileSystem/post/renameTo.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.postRenameTo",
+  "response" : "N/A",
+  "uuid" : "54f1554b-3be4-40c6-99ee-876f5965ae4a",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:31"
+}, {
+  "id" : 173,
+  "path" : "/FileSystem/post/renameTo.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.renameTo",
+  "response" : "N/A",
+  "uuid" : "5e2130a9-114f-44ff-8d40-7783b7df7f48",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:31"
+}, {
+  "id" : 174,
+  "path" : "/FileSystem/cookie/renameTo.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "d1c57c8a-2cc3-49c2-ae4e-2850ca968f94",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:31"
+}, {
+  "id" : 175,
+  "path" : "/FileSystem/cookie/renameTo.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.cookieRenameTo",
+  "response" : "N/A",
+  "uuid" : "be0ea977-c712-4ec2-a3cb-02590f6bf1e6",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:31"
+}, {
+  "id" : 176,
+  "path" : "/FileSystem/cookie/renameTo.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.renameTo",
+  "response" : "N/A",
+  "uuid" : "6fa4b8f6-99bd-44ee-a164-cd5da7dddd1a",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:31"
+}, {
+  "id" : 177,
+  "path" : "/FileSystem/header/renameTo.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "f16ca388-71e2-422e-8339-4abe945aee99",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:31"
+}, {
+  "id" : 178,
+  "path" : "/FileSystem/header/renameTo.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.headerRenameTo",
+  "response" : "N/A",
+  "uuid" : "7c606514-5e08-445a-8952-7aebc6a74401",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:31"
+}, {
+  "id" : 179,
+  "path" : "/FileSystem/header/renameTo.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.renameTo",
+  "response" : "N/A",
+  "uuid" : "b4f81c78-bc59-489f-8909-2a334ab394cc",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:31"
+}, {
+  "id" : 180,
+  "path" : "/FileSystem/json/renameTo.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "391cc082-3ed5-4e1e-b9aa-8e01733d000b",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:31"
+}, {
+  "id" : 181,
+  "path" : "/FileSystem/json/renameTo.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.jsonRenameTo",
+  "response" : "N/A",
+  "uuid" : "d95b3b67-e3b2-4a85-9cd0-92f5c3758e20",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:31"
+}, {
+  "id" : 182,
+  "path" : "/FileSystem/json/renameTo.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.renameTo",
+  "response" : "N/A",
+  "uuid" : "52ac9789-9fa7-4659-89e0-9d8de33bfa39",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:31"
+}, {
+  "id" : 183,
+  "path" : "/FileSystem/xml/renameTo.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "4ae38afa-a9dc-4c26-8d4f-8246420336c2",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:31"
+}, {
+  "id" : 184,
+  "path" : "/FileSystem/xml/renameTo.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.xmlRenameTo",
+  "response" : "N/A",
+  "uuid" : "8f1e4ba2-4530-4e47-95e8-014a90293920",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:31"
+}, {
+  "id" : 185,
+  "path" : "/FileSystem/xml/renameTo.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.renameTo",
+  "response" : "N/A",
+  "uuid" : "bd822b7b-eeef-4083-9d64-acedcd55783e",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:31"
+}, {
+  "id" : 186,
+  "path" : "/FileSystem/post/renameTo.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "996db27f-1ade-4d14-a334-0ba057f4016c",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:31"
+}, {
+  "id" : 187,
+  "path" : "/FileSystem/post/renameTo.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.postRenameTo",
+  "response" : "N/A",
+  "uuid" : "cbb764d6-cdbf-4a15-bd23-fcadfc040932",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:31"
+}, {
+  "id" : 188,
+  "path" : "/FileSystem/post/renameTo.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.renameTo",
+  "response" : "N/A",
+  "uuid" : "1c7c759f-1ce1-4312-80bf-64ebd4687cbe",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:31"
+}, {
+  "id" : 189,
+  "path" : "/FileSystem/get/filesCopy.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "0a176fdd-69f0-406f-9bf0-ca557f77df0b",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:31"
+}, {
+  "id" : 190,
+  "path" : "/FileSystem/get/filesCopy.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.getFilesCopy",
+  "response" : "N/A",
+  "uuid" : "71f73231-70f6-4bc9-8a2f-a83ba91f5117",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:31"
+}, {
+  "id" : 191,
+  "path" : "/FileSystem/get/filesCopy.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.filesCopy",
+  "response" : "N/A",
+  "uuid" : "94587420-34d9-45b8-b7c8-abd8e7b6130d",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:31"
+}, {
+  "id" : 192,
+  "path" : "/FileSystem/post/filesCopy.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "79413d58-e1cb-4475-907b-94ff36306a0c",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:31"
+}, {
+  "id" : 193,
+  "path" : "/FileSystem/post/filesCopy.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.postFilesCopy",
+  "response" : "N/A",
+  "uuid" : "50585e06-84f1-4fd0-8b3c-48a4c43239ae",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:31"
+}, {
+  "id" : 194,
+  "path" : "/FileSystem/post/filesCopy.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.filesCopy",
+  "response" : "N/A",
+  "uuid" : "add66af2-c64c-442e-b4bd-1ea38b40a3b6",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:31"
+}, {
+  "id" : 195,
+  "path" : "/FileSystem/cookie/filesCopy.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "c66b9dad-e983-4040-af5e-864454edf6dd",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:31"
+}, {
+  "id" : 196,
+  "path" : "/FileSystem/cookie/filesCopy.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.cookieFilesCopy",
+  "response" : "N/A",
+  "uuid" : "ad1dee16-a534-4ff2-9c02-5c9135bf1140",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:31"
+}, {
+  "id" : 197,
+  "path" : "/FileSystem/cookie/filesCopy.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.filesCopy",
+  "response" : "N/A",
+  "uuid" : "a043f854-9d9d-4c64-beed-018e309d81f5",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:31"
+}, {
+  "id" : 198,
+  "path" : "/FileSystem/header/filesCopy.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "6cc60bbd-438a-4baf-9465-5bd3221da070",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:32"
+}, {
+  "id" : 199,
+  "path" : "/FileSystem/header/filesCopy.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.headerFilesCopy",
+  "response" : "N/A",
+  "uuid" : "26ccd75c-6feb-4591-988f-f63315b48d96",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:32"
+}, {
+  "id" : 200,
+  "path" : "/FileSystem/header/filesCopy.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.filesCopy",
+  "response" : "N/A",
+  "uuid" : "4ceaa737-d6e6-49b2-9fb1-014ea341a90f",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:32"
+}, {
+  "id" : 201,
+  "path" : "/FileSystem/json/filesCopy.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "a6b37b09-e5ce-4667-9fe1-3e380b7a460c",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:32"
+}, {
+  "id" : 202,
+  "path" : "/FileSystem/json/filesCopy.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.jsonFilesCopy",
+  "response" : "N/A",
+  "uuid" : "69910982-029e-4506-a038-a811afbda6e0",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:32"
+}, {
+  "id" : 203,
+  "path" : "/FileSystem/json/filesCopy.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.filesCopy",
+  "response" : "N/A",
+  "uuid" : "02a0427c-f064-44de-9087-2c167d45c8dd",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:32"
+}, {
+  "id" : 204,
+  "path" : "/FileSystem/xml/filesCopy.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "9d3aa8fb-bbc3-4b54-8a3e-d1076e8187b6",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:32"
+}, {
+  "id" : 205,
+  "path" : "/FileSystem/xml/filesCopy.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.xmlFilesCopy",
+  "response" : "N/A",
+  "uuid" : "77665076-6377-4e90-941a-7984ed0c9788",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:32"
+}, {
+  "id" : 206,
+  "path" : "/FileSystem/xml/filesCopy.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.filesCopy",
+  "response" : "N/A",
+  "uuid" : "cd0ffe62-27ea-406b-b3f1-dc0cdf59ebfd",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:32"
+}, {
+  "id" : 207,
+  "path" : "/FileSystem/post/filesCopy.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "d8ea1608-545b-4d35-ae8f-6305e4b358f7",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:32"
+}, {
+  "id" : 208,
+  "path" : "/FileSystem/post/filesCopy.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.postFilesCopy",
+  "response" : "N/A",
+  "uuid" : "28188b30-2c5f-4793-87f9-b2992047a3df",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:32"
+}, {
+  "id" : 209,
+  "path" : "/FileSystem/post/filesCopy.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.filesCopy",
+  "response" : "N/A",
+  "uuid" : "fa209ce7-7e80-4d19-85f6-4959c44be3ff",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:32"
+}, {
+  "id" : 210,
+  "path" : "/FileSystem/get/listFile.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "9c53389a-ca8f-476a-88df-e5aed2fbf32b",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:32"
+}, {
+  "id" : 211,
+  "path" : "/FileSystem/get/listFile.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.getListFile",
+  "response" : "N/A",
+  "uuid" : "9a0a0c52-defe-44a3-b5f9-c7b0b066c3b7",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:32"
+}, {
+  "id" : 212,
+  "path" : "/FileSystem/get/listFile.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.listFile",
+  "response" : "N/A",
+  "uuid" : "c9f5b19c-f22b-4caf-a6f4-d5ea201676c3",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:32"
+}, {
+  "id" : 213,
+  "path" : "/FileSystem/post/listFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "bba8cb89-a4cd-4eb2-8924-462b9ee4239f",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:32"
+}, {
+  "id" : 214,
+  "path" : "/FileSystem/post/listFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.postListFile",
+  "response" : "N/A",
+  "uuid" : "abb29b54-f292-4734-a75b-292c8c96e452",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:32"
+}, {
+  "id" : 215,
+  "path" : "/FileSystem/post/listFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.listFile",
+  "response" : "N/A",
+  "uuid" : "63fdabf3-6696-4819-b72e-a8c31f23ad40",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:32"
+}, {
+  "id" : 216,
+  "path" : "/FileSystem/cookie/listFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "3980fde2-7ec5-4c45-9fa4-1aabc0cacff7",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:32"
+}, {
+  "id" : 217,
+  "path" : "/FileSystem/cookie/listFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.cookieListFile",
+  "response" : "N/A",
+  "uuid" : "f2c9fe5d-6749-4308-9e0a-c7d557684bf8",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:32"
+}, {
+  "id" : 218,
+  "path" : "/FileSystem/cookie/listFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.listFile",
+  "response" : "N/A",
+  "uuid" : "440d1073-7c39-4001-967d-63a1012bc974",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:32"
+}, {
+  "id" : 219,
+  "path" : "/FileSystem/header/listFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "b1dc03f9-5098-4818-9cb2-0cde5d852da2",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:32"
+}, {
+  "id" : 220,
+  "path" : "/FileSystem/header/listFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.headerListFile",
+  "response" : "N/A",
+  "uuid" : "1aac7eb9-731d-4210-809e-133a82086719",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:32"
+}, {
+  "id" : 221,
+  "path" : "/FileSystem/header/listFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.listFile",
+  "response" : "N/A",
+  "uuid" : "f3473e10-87ab-4544-b5cc-96e7d8430ba3",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:32"
+}, {
+  "id" : 222,
+  "path" : "/FileSystem/json/listFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "e426de39-7331-4e9b-b21a-0c043dd01e0c",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:32"
+}, {
+  "id" : 223,
+  "path" : "/FileSystem/json/listFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.jsonListFile",
+  "response" : "N/A",
+  "uuid" : "95d3feb5-0379-4149-af7f-628a169394e4",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:32"
+}, {
+  "id" : 224,
+  "path" : "/FileSystem/json/listFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.listFile",
+  "response" : "N/A",
+  "uuid" : "aee46164-7a94-4b37-8b24-5e63bca0bf48",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:32"
+}, {
+  "id" : 225,
+  "path" : "/FileSystem/xml/listFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "b822667f-5dd0-43ec-887d-2e3f64f406e1",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:32"
+}, {
+  "id" : 226,
+  "path" : "/FileSystem/xml/listFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.xmlListFile",
+  "response" : "N/A",
+  "uuid" : "2968aa51-3680-4cc9-9f3a-fc6fea14dd25",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:32"
+}, {
+  "id" : 227,
+  "path" : "/FileSystem/xml/listFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.listFile",
+  "response" : "N/A",
+  "uuid" : "0913e50e-4c18-4370-ac0f-c7cb4ee6589e",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:32"
+}, {
+  "id" : 228,
+  "path" : "/FileSystem/post/listFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "ba220389-995d-4a87-8375-820efd6ffd33",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:32"
+}, {
+  "id" : 229,
+  "path" : "/FileSystem/post/listFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.postListFile",
+  "response" : "N/A",
+  "uuid" : "04059bb3-0069-408f-be1b-a66d0e31cc3c",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:32"
+}, {
+  "id" : 230,
+  "path" : "/FileSystem/post/listFile.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.FileSystemController.listFile",
+  "response" : "N/A",
+  "uuid" : "a3fce1e1-a0ea-4e2c-99f2-1bd6e89987a6",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:32"
+}, {
+  "id" : 231,
+  "path" : "/CMD/get/cmd.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "966f560b-0071-4749-b836-ac3f5ae65910",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:32"
+}, {
+  "id" : 232,
+  "path" : "/CMD/get/cmd.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.CMDController.getProcessBuilder",
+  "response" : "N/A",
+  "uuid" : "de21d35a-d420-435f-9d2a-86fc5cd43c24",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:32"
+}, {
+  "id" : 233,
+  "path" : "/CMD/get/cmd.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public static java.util.Map org.javaweb.vuln.controller.CMDController.execCMD",
+  "response" : "N/A",
+  "uuid" : "94a946be-6191-4137-b877-e9aeee526b9a",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:32"
+}, {
+  "id" : 234,
+  "path" : "/CMD/post/cmd.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "b5002603-ddeb-455a-b8e9-30fa9de44ca9",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:32"
+}, {
+  "id" : 235,
+  "path" : "/CMD/post/cmd.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.CMDController.postProcessBuilder",
+  "response" : "N/A",
+  "uuid" : "b8d552a7-27a5-4731-9cd0-974ea470c61f",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:32"
+}, {
+  "id" : 236,
+  "path" : "/CMD/post/cmd.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public static java.util.Map org.javaweb.vuln.controller.CMDController.execCMD",
+  "response" : "N/A",
+  "uuid" : "712e7b30-134c-4ff4-a822-0d04d91e1dce",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:32"
+}, {
+  "id" : 237,
+  "path" : "/CMD/cookie/cmd.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "1df1068d-361d-4681-bae2-dd1a5631a541",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:32"
+}, {
+  "id" : 238,
+  "path" : "/CMD/cookie/cmd.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.CMDController.cookieProcessBuilder",
+  "response" : "N/A",
+  "uuid" : "8b5f83fa-17ca-4092-962d-ead0a9dd2dd0",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:32"
+}, {
+  "id" : 239,
+  "path" : "/CMD/cookie/cmd.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public static java.util.Map org.javaweb.vuln.controller.CMDController.execCMD",
+  "response" : "N/A",
+  "uuid" : "8bd5f82d-4ccf-4b05-b661-2252a1f33ca3",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:32"
+}, {
+  "id" : 240,
+  "path" : "/CMD/header/cmd.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "e01e69e2-37a7-4817-8cf6-1869f0ab865e",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:33"
+}, {
+  "id" : 241,
+  "path" : "/CMD/header/cmd.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.CMDController.headerProcessBuilder",
+  "response" : "N/A",
+  "uuid" : "c45787ce-31a4-4f7e-9ebd-90b69f587bf9",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:33"
+}, {
+  "id" : 242,
+  "path" : "/CMD/header/cmd.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public static java.util.Map org.javaweb.vuln.controller.CMDController.execCMD",
+  "response" : "N/A",
+  "uuid" : "85a067b6-886b-4003-9e01-a2b35bd96996",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:33"
+}, {
+  "id" : 243,
+  "path" : "/CMD/json/cmd.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "2ac3578d-be3b-4560-ab0d-1b2ad1d9e77e",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:33"
+}, {
+  "id" : 244,
+  "path" : "/CMD/json/cmd.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.CMDController.jsonProcessBuilder",
+  "response" : "N/A",
+  "uuid" : "143f9406-251c-4d00-82c7-c3c69ec76ffe",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:33"
+}, {
+  "id" : 245,
+  "path" : "/CMD/json/cmd.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public static java.util.Map org.javaweb.vuln.controller.CMDController.execCMD",
+  "response" : "N/A",
+  "uuid" : "e4feaf52-f318-4dc0-b239-bc7a99e8a451",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:33"
+}, {
+  "id" : 246,
+  "path" : "/CMD/xml/cmd.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "680e96d2-5512-4862-9019-56ad5f0a740f",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:33"
+}, {
+  "id" : 247,
+  "path" : "/CMD/xml/cmd.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.CMDController.xmlProcessBuilder",
+  "response" : "N/A",
+  "uuid" : "86ec38a3-e8b0-4b29-a647-d395003e441b",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:33"
+}, {
+  "id" : 248,
+  "path" : "/CMD/xml/cmd.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public static java.util.Map org.javaweb.vuln.controller.CMDController.execCMD",
+  "response" : "N/A",
+  "uuid" : "988baab1-2a64-4664-841a-3182fb96eb9d",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:33"
+}, {
+  "id" : 249,
+  "path" : "/CMD/post/cmd.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "eecccd70-a909-498c-9098-cb89b9d98a21",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:33"
+}, {
+  "id" : 250,
+  "path" : "/CMD/post/cmd.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.CMDController.postProcessBuilder",
+  "response" : "N/A",
+  "uuid" : "8387c2f1-8b26-447c-935f-f23fea4df721",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:33"
+}, {
+  "id" : 251,
+  "path" : "/CMD/post/cmd.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public static java.util.Map org.javaweb.vuln.controller.CMDController.execCMD",
+  "response" : "N/A",
+  "uuid" : "bda8aa1d-ac2a-4783-9544-873d752bff12",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:33"
+}, {
+  "id" : 252,
+  "path" : "/CMD/get/unixProcess.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "a5ac2fd3-ac8d-462f-a43c-c6d016abcac0",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:33"
+}, {
+  "id" : 253,
+  "path" : "/CMD/get/unixProcess.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.CMDController.getUnixProcess",
+  "response" : "N/A",
+  "uuid" : "0cfceb8a-fea8-4177-b2d4-3990f73a9c63",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:33"
+}, {
+  "id" : 254,
+  "path" : "/CMD/get/unixProcess.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public static java.util.Map org.javaweb.vuln.controller.CMDController.unixProcess",
+  "response" : "N/A",
+  "uuid" : "14128b40-ab64-45e1-80f1-bf6cef72f3a9",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:33"
+}, {
+  "id" : 255,
+  "path" : "/CMD/post/unixProcess.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "92ff3138-10c3-4e0c-aa6d-74a61273a2c2",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:33"
+}, {
+  "id" : 256,
+  "path" : "/CMD/post/unixProcess.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.CMDController.postUnixProcess",
+  "response" : "N/A",
+  "uuid" : "36d56004-b524-43e9-8112-5a9bdf1d6945",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:33"
+}, {
+  "id" : 257,
+  "path" : "/CMD/post/unixProcess.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public static java.util.Map org.javaweb.vuln.controller.CMDController.unixProcess",
+  "response" : "N/A",
+  "uuid" : "a1d68452-f11b-4ce5-94c0-cb78c61dbeee",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:33"
+}, {
+  "id" : 258,
+  "path" : "/CMD/cookie/unixProcess.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "bfe1f611-4d15-4359-9902-2eca0da7bc8a",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:33"
+}, {
+  "id" : 259,
+  "path" : "/CMD/cookie/unixProcess.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.CMDController.cookieUnixProcess",
+  "response" : "N/A",
+  "uuid" : "f404df00-a374-4067-a534-174caf0b769b",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:33"
+}, {
+  "id" : 260,
+  "path" : "/CMD/cookie/unixProcess.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public static java.util.Map org.javaweb.vuln.controller.CMDController.unixProcess",
+  "response" : "N/A",
+  "uuid" : "2396b71b-1796-46b8-8536-a5e75c84c28b",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:33"
+}, {
+  "id" : 261,
+  "path" : "/CMD/header/unixProcess.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "3d65c1ff-e951-4fbf-bc22-a5fbce0ca59f",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:33"
+}, {
+  "id" : 262,
+  "path" : "/CMD/header/unixProcess.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.CMDController.headerUnixProcess",
+  "response" : "N/A",
+  "uuid" : "a9f4100b-a44c-455a-bde6-5cf128c1d80c",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:33"
+}, {
+  "id" : 263,
+  "path" : "/CMD/header/unixProcess.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public static java.util.Map org.javaweb.vuln.controller.CMDController.unixProcess",
+  "response" : "N/A",
+  "uuid" : "d566f451-b4fb-4f8c-8c7d-ab58b937dbd1",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:33"
+}, {
+  "id" : 264,
+  "path" : "/CMD/json/unixProcess.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "2aa04016-9f38-42ce-ad5c-a6110d2520f3",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:33"
+}, {
+  "id" : 265,
+  "path" : "/CMD/json/unixProcess.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.CMDController.jsonUnixProcess",
+  "response" : "N/A",
+  "uuid" : "70bf98f1-a55d-438a-abc3-0ac87d978b73",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:33"
+}, {
+  "id" : 266,
+  "path" : "/CMD/json/unixProcess.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public static java.util.Map org.javaweb.vuln.controller.CMDController.unixProcess",
+  "response" : "N/A",
+  "uuid" : "25b1a9ad-a546-424d-97c9-043a26258555",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:33"
+}, {
+  "id" : 267,
+  "path" : "/CMD/xml/unixProcess.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "31bb0189-ba9e-4907-8aa0-74a0a2941416",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:33"
+}, {
+  "id" : 268,
+  "path" : "/CMD/xml/unixProcess.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.CMDController.xmlUnixProcess",
+  "response" : "N/A",
+  "uuid" : "1d890ece-9458-48e2-9f33-84d87cc524bc",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:33"
+}, {
+  "id" : 269,
+  "path" : "/CMD/xml/unixProcess.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public static java.util.Map org.javaweb.vuln.controller.CMDController.unixProcess",
+  "response" : "N/A",
+  "uuid" : "cfbe5ef2-78ef-409c-b9bf-dfca13a7b44c",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:33"
+}, {
+  "id" : 270,
+  "path" : "/CMD/post/unixProcess.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "fb10d06e-d72d-4e90-9fea-e1b3d1d2f606",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:33"
+}, {
+  "id" : 271,
+  "path" : "/CMD/post/unixProcess.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.CMDController.postUnixProcess",
+  "response" : "N/A",
+  "uuid" : "fbbc0e24-e75b-4d01-b26d-92487de3f02e",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:33"
+}, {
+  "id" : 272,
+  "path" : "/CMD/post/unixProcess.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public static java.util.Map org.javaweb.vuln.controller.CMDController.unixProcess",
+  "response" : "N/A",
+  "uuid" : "7a762e61-59b0-4af8-91d6-d7677c21eb35",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:33"
+}, {
+  "id" : 273,
+  "path" : "/SQL/get/sql.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "82cc9479-3026-491a-9e4a-b30d0ddcaa53",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:33"
+}, {
+  "id" : 274,
+  "path" : "/SQL/get/sql.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.SQLInjectionController.getSQL",
+  "response" : "N/A",
+  "uuid" : "3316cc77-441f-46cc-bf22-0687039d5bd5",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:33"
+}, {
+  "id" : 275,
+  "path" : "/SQL/get/sql.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "private java.util.Map org.javaweb.vuln.controller.SQLInjectionController.getSysUserByUsername",
+  "response" : "N/A",
+  "uuid" : "f41e2a23-c821-4373-b135-a85ff57cdb15",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:33"
+}, {
+  "id" : 276,
+  "path" : "/SQL/post/sql.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "ab2e7326-50a8-4539-8d8e-29ef021220c6",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:34"
+}, {
+  "id" : 277,
+  "path" : "/SQL/post/sql.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.SQLInjectionController.postSQL",
+  "response" : "N/A",
+  "uuid" : "e743d9ed-0a3c-48a6-9828-b0cd03b5b708",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:34"
+}, {
+  "id" : 278,
+  "path" : "/SQL/post/sql.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "private java.util.Map org.javaweb.vuln.controller.SQLInjectionController.getSysUserByUsername",
+  "response" : "N/A",
+  "uuid" : "b6ca62c0-cb3f-4c7f-b80f-2d98fc573b9f",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:34"
+}, {
+  "id" : 279,
+  "path" : "/SQL/cookie/sql.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "04e988d3-0630-4565-9cce-7fdc8a7f373d",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:34"
+}, {
+  "id" : 280,
+  "path" : "/SQL/cookie/sql.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.SQLInjectionController.cookieSQL",
+  "response" : "N/A",
+  "uuid" : "5fb63f8c-939c-4375-8446-6f13841ac8ed",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:34"
+}, {
+  "id" : 281,
+  "path" : "/SQL/cookie/sql.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "private java.util.Map org.javaweb.vuln.controller.SQLInjectionController.getSysUserByUsername",
+  "response" : "N/A",
+  "uuid" : "426c4d17-3963-4d6a-bc30-ffcb672732e8",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:34"
+}, {
+  "id" : 282,
+  "path" : "/SQL/header/sql.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "36d61265-6823-4c30-904e-13428c6ddb3c",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:34"
+}, {
+  "id" : 283,
+  "path" : "/SQL/header/sql.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.SQLInjectionController.headerSQL",
+  "response" : "N/A",
+  "uuid" : "ed07ff9d-2258-4151-b2d1-361beaa3629c",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:34"
+}, {
+  "id" : 284,
+  "path" : "/SQL/header/sql.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "private java.util.Map org.javaweb.vuln.controller.SQLInjectionController.getSysUserByUsername",
+  "response" : "N/A",
+  "uuid" : "c27a03a5-0f31-4bd5-b5a8-8f1951beab8a",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:34"
+}, {
+  "id" : 285,
+  "path" : "/SQL/json/sql.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "1c318b65-72e4-4342-a938-013cfd2e6b31",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:34"
+}, {
+  "id" : 286,
+  "path" : "/SQL/json/sql.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.SQLInjectionController.jsonSQL",
+  "response" : "N/A",
+  "uuid" : "13762db7-a78c-48a2-940e-e9cb004831a3",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:34"
+}, {
+  "id" : 287,
+  "path" : "/SQL/json/sql.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "private java.util.Map org.javaweb.vuln.controller.SQLInjectionController.getSysUserByUsername",
+  "response" : "N/A",
+  "uuid" : "c586be8b-f6f2-4efa-9072-d6c15cc89b59",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:34"
+}, {
+  "id" : 288,
+  "path" : "/SQL/xml/sql.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "9bf049a9-a9c5-4561-a319-d44672933190",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:34"
+}, {
+  "id" : 289,
+  "path" : "/SQL/xml/sql.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.SQLInjectionController.xmlSQL",
+  "response" : "N/A",
+  "uuid" : "6d4c9500-19ed-4b04-9076-d3b5c50f5e3f",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:34"
+}, {
+  "id" : 290,
+  "path" : "/SQL/xml/sql.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "private java.util.Map org.javaweb.vuln.controller.SQLInjectionController.getSysUserByUsername",
+  "response" : "N/A",
+  "uuid" : "9232cf40-c311-49fd-acf7-482d6c82e432",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:34"
+}, {
+  "id" : 291,
+  "path" : "/SQL/post/sql.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "b56a6925-0d21-4582-919c-666f85eb18a3",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:34"
+}, {
+  "id" : 292,
+  "path" : "/SQL/post/sql.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.SQLInjectionController.postSQL",
+  "response" : "N/A",
+  "uuid" : "85f7e2c5-0706-4068-9b81-6f4f90d3129f",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:34"
+}, {
+  "id" : 293,
+  "path" : "/SQL/post/sql.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "private java.util.Map org.javaweb.vuln.controller.SQLInjectionController.getSysUserByUsername",
+  "response" : "N/A",
+  "uuid" : "d3151c0c-1a56-4657-afcb-d39dd8acea78",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:34"
+}, {
+  "id" : 294,
+  "path" : "/XSS/get/xss.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "92b15d1b-0fe8-4f4e-be23-426ef0fb402a",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:34"
+}, {
+  "id" : 295,
+  "path" : "/XSS/get/xss.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.lang.String org.javaweb.vuln.controller.XSSController.getXss",
+  "response" : "N/A",
+  "uuid" : "b3b02721-4d50-4624-a81a-69042cd9993e",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:34"
+}, {
+  "id" : 296,
+  "path" : "/XSS/post/xss.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "c90b94f7-9008-47d8-8c09-a2fdf59e4fe5",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:34"
+}, {
+  "id" : 297,
+  "path" : "/XSS/post/xss.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.lang.String org.javaweb.vuln.controller.XSSController.postXss",
+  "response" : "N/A",
+  "uuid" : "1aa98853-d65e-4637-b024-44585c3dd348",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:34"
+}, {
+  "id" : 298,
+  "path" : "/XSS/cookie/xss.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "9a24a37a-bf81-4f7e-b875-1e21845e6205",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:34"
+}, {
+  "id" : 299,
+  "path" : "/XSS/cookie/xss.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.lang.String org.javaweb.vuln.controller.XSSController.cookieXss",
+  "response" : "N/A",
+  "uuid" : "9e23eaed-c642-43c0-96c1-535f778f9d21",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:34"
+}, {
+  "id" : 300,
+  "path" : "/XSS/header/xss.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "f15fdd48-5d4e-4ed1-be88-4a265d4157d3",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:34"
+}, {
+  "id" : 301,
+  "path" : "/XSS/header/xss.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.lang.String org.javaweb.vuln.controller.XSSController.headerXss",
+  "response" : "N/A",
+  "uuid" : "f4cbad1d-a5e2-4d3f-8a02-8d1aa49e0eff",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:34"
+}, {
+  "id" : 302,
+  "path" : "/XSS/json/xss.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "78a4a088-1913-40f6-b705-71403073d941",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:34"
+}, {
+  "id" : 303,
+  "path" : "/XSS/json/xss.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.XSSController.jsonXss",
+  "response" : "N/A",
+  "uuid" : "b9685883-523b-448e-b3e9-cd4da0cf9583",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:34"
+}, {
+  "id" : 304,
+  "path" : "/XSS/xml/xss.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "e8c6d876-5fca-4500-9f66-c34e9caa9b5f",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:34"
+}, {
+  "id" : 305,
+  "path" : "/XSS/xml/xss.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.XSSController.xmlXss",
+  "response" : "N/A",
+  "uuid" : "ded1900b-112d-4fb5-83ca-a898fd850e75",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:34"
+}, {
+  "id" : 306,
+  "path" : "/XSS/post/xss.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "9deb5b98-176f-4960-8a4f-44faf08b6a1e",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:34"
+}, {
+  "id" : 307,
+  "path" : "/XSS/post/xss.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.lang.String org.javaweb.vuln.controller.XSSController.postXss",
+  "response" : "N/A",
+  "uuid" : "1b3dc5bb-dff8-4766-bb08-9828d7c2fcd7",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:34"
+}, {
+  "id" : 308,
+  "path" : "/Expression/ongl.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "a4fb8210-3c17-4b30-98f4-f1b51d560d27",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:34"
+}, {
+  "id" : 309,
+  "path" : "/Expression/ongl.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.ExpressionController.ognl",
+  "response" : "N/A",
+  "uuid" : "35e3c04b-fde9-49aa-8c28-7d3e5e34f184",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:34"
+}, {
+  "id" : 310,
+  "path" : "/Expression/spEL.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "a2f4c80b-5a90-43d4-87e6-4dec77597992",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:34"
+}, {
+  "id" : 311,
+  "path" : "/Expression/spEL.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.ExpressionController.spel",
+  "response" : "N/A",
+  "uuid" : "7e22205e-2ff8-4839-9fdb-26cdecfbd538",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:34"
+}, {
+  "id" : 312,
+  "path" : "/Expression/mvel.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "b1f607c1-deca-4259-948f-278dce8b3992",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:35"
+}, {
+  "id" : 313,
+  "path" : "/Expression/mvel.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.ExpressionController.mvel",
+  "response" : "N/A",
+  "uuid" : "bf0fdb4a-fd8d-4841-8489-d8231f31a630",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:35"
+}, {
+  "id" : 314,
+  "path" : "/FileUpload/upload.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "0ee3248a-2127-4f89-8de6-4e05b5d63294",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:35"
+}, {
+  "id" : 315,
+  "path" : "/Deserialization/readObject.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "16375a6c-e4a6-49c5-a3bb-ba4e37d0336a",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:35"
+}, {
+  "id" : 316,
+  "path" : "/Deserialization/readObject.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.DeserializationController.readObject",
+  "response" : "N/A",
+  "uuid" : "2abf6c21-2496-4ca5-ab6f-bb7b4f4fab59",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:35"
+}, {
+  "id" : 317,
+  "path" : "/Deserialization/readObject.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "cf6d2248-04ae-46e9-97d6-b2b844492414",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:35"
+}, {
+  "id" : 318,
+  "path" : "/Deserialization/readObject.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.DeserializationController.readObject",
+  "response" : "N/A",
+  "uuid" : "03fbe154-a77b-4601-a703-456b4e137067",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:35"
+}, {
+  "id" : 319,
+  "path" : "/Test/test.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "2ddf2c59-2549-4720-9fd3-784150ce1ed9",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:35"
+}, {
+  "id" : 320,
+  "path" : "/Test/test.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.TestController.testJson",
+  "response" : "N/A",
+  "uuid" : "8b6045cc-e95e-432a-a78d-707fd98281b3",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:35"
+}, {
+  "id" : 321,
+  "path" : "/Test/test.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "2d6c71dd-02e0-43f2-a44f-6fb9ffbe8d10",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:35"
+}, {
+  "id" : 322,
+  "path" : "/Test/test.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.TestController.test",
+  "response" : "N/A",
+  "uuid" : "ce2a0c27-8267-42d4-bdad-a34ea48a1304",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:35"
+}, {
+  "id" : 323,
+  "path" : "/XXE/get/xerces.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "0156c106-44ef-4e42-ab10-a132a9e595de",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:35"
+}, {
+  "id" : 324,
+  "path" : "/XXE/get/xerces.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.XXEController.getXerces",
+  "response" : "N/A",
+  "uuid" : "0e511958-277f-40c4-975d-46d05abe6375",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:35"
+}, {
+  "id" : 325,
+  "path" : "/XXE/get/xerces.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.XXEController.xerces",
+  "response" : "N/A",
+  "uuid" : "01cda7ee-5253-4c39-b499-a6aa6f171391",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:35"
+}, {
+  "id" : 326,
+  "path" : "/XXE/post/xerces.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "d0994938-6fa3-4496-94ec-82e8416e443b",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:35"
+}, {
+  "id" : 327,
+  "path" : "/XXE/post/xerces.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.XXEController.postXerces",
+  "response" : "N/A",
+  "uuid" : "cb924e4f-24ab-4d33-bd9b-dc9d1a811441",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:35"
+}, {
+  "id" : 328,
+  "path" : "/XXE/post/xerces.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.XXEController.xerces",
+  "response" : "N/A",
+  "uuid" : "52a659f7-5ad8-469a-855c-8ccb9141136b",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:35"
+}, {
+  "id" : 329,
+  "path" : "/XXE/cookie/xerces.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "5852fda1-0c1c-48c4-93c1-1f3d2c8ad311",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:35"
+}, {
+  "id" : 330,
+  "path" : "/XXE/cookie/xerces.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.XXEController.cookieXerces",
+  "response" : "N/A",
+  "uuid" : "1addd2e4-6b4a-4f8b-a50a-aec3dbca1c27",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:35"
+}, {
+  "id" : 331,
+  "path" : "/XXE/cookie/xerces.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.XXEController.xerces",
+  "response" : "N/A",
+  "uuid" : "29d51b33-2853-4ab4-9852-7eb46aa4ecf8",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:35"
+}, {
+  "id" : 332,
+  "path" : "/XXE/header/xerces.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "8f1a400f-9324-47e5-92b6-045ea5dbbb48",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:35"
+}, {
+  "id" : 333,
+  "path" : "/XXE/header/xerces.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.XXEController.headerXerces",
+  "response" : "N/A",
+  "uuid" : "6191c9fe-a964-46d5-afe4-f652af042228",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:35"
+}, {
+  "id" : 334,
+  "path" : "/XXE/header/xerces.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.XXEController.xerces",
+  "response" : "N/A",
+  "uuid" : "42a697d3-3851-47cc-b141-948e25d8e1fd",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:35"
+}, {
+  "id" : 335,
+  "path" : "/XXE/json/xerces.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "2b7e419d-2ec2-4743-96f2-ee7f69f8ae16",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:36"
+}, {
+  "id" : 336,
+  "path" : "/XXE/json/xerces.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.XXEController.jsonXerces",
+  "response" : "N/A",
+  "uuid" : "9a4c0aca-8a15-491d-b312-2412e07e9422",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:36"
+}, {
+  "id" : 337,
+  "path" : "/XXE/json/xerces.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.XXEController.xerces",
+  "response" : "N/A",
+  "uuid" : "351ed392-5729-4990-a364-158dab734950",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:36"
+}, {
+  "id" : 338,
+  "path" : "/XXE/post/xerces.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "6c026985-7c32-4b0d-8333-ff2702abe025",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:36"
+}, {
+  "id" : 339,
+  "path" : "/XXE/post/xerces.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.XXEController.postXerces",
+  "response" : "N/A",
+  "uuid" : "97d3c28b-8276-43d9-9acd-cf8271451b10",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:36"
+}, {
+  "id" : 340,
+  "path" : "/XXE/post/xerces.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.XXEController.xerces",
+  "response" : "N/A",
+  "uuid" : "5ad2b865-c856-4542-b7d7-2ecff1356c8d",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:36"
+}, {
+  "id" : 341,
+  "path" : "/XXE/get/dom4j.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "66c1dbcb-c0ff-464a-8d2e-f0f5398d5b4c",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:36"
+}, {
+  "id" : 342,
+  "path" : "/XXE/get/dom4j.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.XXEController.getDom4j",
+  "response" : "N/A",
+  "uuid" : "c7229a30-baab-4f93-af99-8c2feaa0d567",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:36"
+}, {
+  "id" : 343,
+  "path" : "/XXE/get/dom4j.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.XXEController.dom4j",
+  "response" : "N/A",
+  "uuid" : "f7f8e96b-98dc-4245-805e-776e8a3c98cf",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:36"
+}, {
+  "id" : 344,
+  "path" : "/XXE/post/dom4j.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "6991b902-2342-48e9-8485-718bcf0cd2d7",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:36"
+}, {
+  "id" : 345,
+  "path" : "/XXE/post/dom4j.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.XXEController.postDom4j",
+  "response" : "N/A",
+  "uuid" : "57bb474e-2dca-4a3d-a133-18cc04c90182",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:36"
+}, {
+  "id" : 346,
+  "path" : "/XXE/post/dom4j.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.XXEController.dom4j",
+  "response" : "N/A",
+  "uuid" : "c1fdaf03-fe61-4abd-bad3-8d161f9aed58",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:36"
+}, {
+  "id" : 347,
+  "path" : "/XXE/cookie/dom4j.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "3ca4b571-d832-4920-a225-7b57d5a478a2",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:36"
+}, {
+  "id" : 348,
+  "path" : "/XXE/cookie/dom4j.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.XXEController.cookieDom4j",
+  "response" : "N/A",
+  "uuid" : "4a652019-caa7-476d-8104-16f795e33039",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:36"
+}, {
+  "id" : 349,
+  "path" : "/XXE/cookie/dom4j.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.XXEController.dom4j",
+  "response" : "N/A",
+  "uuid" : "ec22af6b-cf2b-4c1e-bbeb-5345df803f73",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:36"
+}, {
+  "id" : 350,
+  "path" : "/XXE/header/dom4j.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "8082d43f-d939-48a6-aa83-fb4cd0438a7b",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:36"
+}, {
+  "id" : 351,
+  "path" : "/XXE/header/dom4j.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.XXEController.headerDom4j",
+  "response" : "N/A",
+  "uuid" : "f85e6621-4369-415f-86cf-9bc0bc113a77",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:36"
+}, {
+  "id" : 352,
+  "path" : "/XXE/header/dom4j.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.XXEController.dom4j",
+  "response" : "N/A",
+  "uuid" : "28fc1eab-f0be-4264-9ea8-9df37eedfffb",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:36"
+}, {
+  "id" : 353,
+  "path" : "/XXE/json/dom4j.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "730a7311-d1db-4041-aa5a-af1167f0fd19",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:36"
+}, {
+  "id" : 354,
+  "path" : "/XXE/json/dom4j.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.XXEController.jsonDom4j",
+  "response" : "N/A",
+  "uuid" : "f6a18591-213d-437c-a615-95a31c9359ab",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:36"
+}, {
+  "id" : 355,
+  "path" : "/XXE/json/dom4j.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.XXEController.dom4j",
+  "response" : "N/A",
+  "uuid" : "873012af-b24b-44f0-b87e-0493231db473",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:36"
+}, {
+  "id" : 356,
+  "path" : "/XXE/post/dom4j.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "dfdaf7e1-95f9-4f3e-812f-cd10873de879",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:36"
+}, {
+  "id" : 357,
+  "path" : "/XXE/post/dom4j.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.XXEController.postDom4j",
+  "response" : "N/A",
+  "uuid" : "5fd4c4eb-594e-45c8-be71-d1d2d713b332",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:36"
+}, {
+  "id" : 358,
+  "path" : "/XXE/post/dom4j.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.XXEController.dom4j",
+  "response" : "N/A",
+  "uuid" : "b820d776-822c-4fa2-b963-5cd6e70613df",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:36"
+}, {
+  "id" : 359,
+  "path" : "/SSRF/get/httpConnection.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "555c0773-7622-448e-867b-4b5431314ba7",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:36"
+}, {
+  "id" : 360,
+  "path" : "/SSRF/get/httpConnection.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.SSRFController.getHttpConnection",
+  "response" : "N/A",
+  "uuid" : "e5151571-c43d-4c3d-9369-2da021db1436",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:36"
+}, {
+  "id" : 361,
+  "path" : "/SSRF/get/httpConnection.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.SSRFController.httpConnection",
+  "response" : "N/A",
+  "uuid" : "498818a9-b3f2-4ef5-950e-fbb95bfbe658",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:36"
+}, {
+  "id" : 362,
+  "path" : "/SSRF/post/httpConnection.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "6ef5e33e-7c83-4402-83ee-b202e543eaf2",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:37"
+}, {
+  "id" : 363,
+  "path" : "/SSRF/post/httpConnection.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.SSRFController.postHttpConnection",
+  "response" : "N/A",
+  "uuid" : "efd57599-1a69-4387-8b6b-5b92fcecc7ae",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:37"
+}, {
+  "id" : 364,
+  "path" : "/SSRF/post/httpConnection.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.SSRFController.httpConnection",
+  "response" : "N/A",
+  "uuid" : "1216e399-cd04-4b9f-a3be-f1ffcf0c8c09",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:37"
+}, {
+  "id" : 365,
+  "path" : "/SSRF/cookie/httpConnection.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "a7caeae5-7880-4b98-ac6d-19997d77940b",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:37"
+}, {
+  "id" : 366,
+  "path" : "/SSRF/cookie/httpConnection.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.SSRFController.cookieHttpConnection",
+  "response" : "N/A",
+  "uuid" : "416cd757-098c-4d4d-9d45-8850a38b5391",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:37"
+}, {
+  "id" : 367,
+  "path" : "/SSRF/cookie/httpConnection.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.SSRFController.httpConnection",
+  "response" : "N/A",
+  "uuid" : "92d502b5-bbd8-4a87-8a1a-b394736fde53",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:37"
+}, {
+  "id" : 368,
+  "path" : "/SSRF/header/httpConnection.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "6ad58710-2fe9-4a83-a2b3-ed0982db340a",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:37"
+}, {
+  "id" : 369,
+  "path" : "/SSRF/header/httpConnection.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.SSRFController.headerHttpConnection",
+  "response" : "N/A",
+  "uuid" : "da55552f-12d1-4a27-877a-276eb9f732a9",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:37"
+}, {
+  "id" : 370,
+  "path" : "/SSRF/header/httpConnection.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.SSRFController.httpConnection",
+  "response" : "N/A",
+  "uuid" : "6108dbcb-19cc-4b2b-bff1-29d8686cd49a",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:37"
+}, {
+  "id" : 371,
+  "path" : "/SSRF/json/httpConnection.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "812e534a-f549-4d16-b527-8cc522b7078a",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:37"
+}, {
+  "id" : 372,
+  "path" : "/SSRF/json/httpConnection.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.SSRFController.jsonHttpConnection",
+  "response" : "N/A",
+  "uuid" : "ccc99a3c-f8a2-485c-b856-b0193da67eb9",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:37"
+}, {
+  "id" : 373,
+  "path" : "/SSRF/json/httpConnection.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.SSRFController.httpConnection",
+  "response" : "N/A",
+  "uuid" : "199fcb5f-e914-41c7-883b-80e2c0635db9",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:37"
+}, {
+  "id" : 374,
+  "path" : "/SSRF/xml/httpConnection.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "12472444-0ef3-4b9d-bdc2-bbe9e3ea454b",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:37"
+}, {
+  "id" : 375,
+  "path" : "/SSRF/xml/httpConnection.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.SSRFController.xmlHttpConnection",
+  "response" : "N/A",
+  "uuid" : "433bc391-7b1e-4d9a-a880-258a2d6f77b8",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:37"
+}, {
+  "id" : 376,
+  "path" : "/SSRF/xml/httpConnection.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.SSRFController.httpConnection",
+  "response" : "N/A",
+  "uuid" : "cebe06ea-92b5-4fa7-a7c0-4c9fc017c8ed",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:37"
+}, {
+  "id" : 377,
+  "path" : "/SSRF/post/httpConnection.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "d3c04f17-937e-48d1-ba62-7c17978334d8",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:37"
+}, {
+  "id" : 378,
+  "path" : "/SSRF/post/httpConnection.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.SSRFController.postHttpConnection",
+  "response" : "N/A",
+  "uuid" : "eb404668-a0e1-4673-98a1-4849f7c4a2ff",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:37"
+}, {
+  "id" : 379,
+  "path" : "/SSRF/post/httpConnection.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.SSRFController.httpConnection",
+  "response" : "N/A",
+  "uuid" : "0df27c5a-d09d-4175-88e5-06f6dff2454a",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:37"
+}, {
+  "id" : 380,
+  "path" : "/SSRF/get/okHttp3.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "2a42a8d3-b13c-4119-87d9-f69e06dee9de",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:37"
+}, {
+  "id" : 381,
+  "path" : "/SSRF/get/okHttp3.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.SSRFController.getOkHttp3",
+  "response" : "N/A",
+  "uuid" : "7352d4b7-1732-40db-8487-705069f9a4ad",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:37"
+}, {
+  "id" : 382,
+  "path" : "/SSRF/get/okHttp3.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.SSRFController.okHttp3",
+  "response" : "N/A",
+  "uuid" : "42827dfb-6129-4153-8947-b97bef2aa6b9",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:37"
+}, {
+  "id" : 383,
+  "path" : "/SSRF/post/okHttp3.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "52e4a5e8-34bf-4ff0-a0e4-2499af32042b",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:38"
+}, {
+  "id" : 384,
+  "path" : "/SSRF/post/okHttp3.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.SSRFController.postOkHttp3",
+  "response" : "N/A",
+  "uuid" : "6233348a-a9ff-4121-863d-03cda47f608d",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:38"
+}, {
+  "id" : 385,
+  "path" : "/SSRF/post/okHttp3.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.SSRFController.okHttp3",
+  "response" : "N/A",
+  "uuid" : "56987b5e-b720-4ff5-891e-b3e260ff471c",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:38"
+}, {
+  "id" : 386,
+  "path" : "/SSRF/cookie/okHttp3.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "f0a747b1-bc33-4ab7-b369-ba9d5c73d3f2",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:38"
+}, {
+  "id" : 387,
+  "path" : "/SSRF/cookie/okHttp3.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.SSRFController.cookieOkHttp3",
+  "response" : "N/A",
+  "uuid" : "407859d9-2f26-4122-ace7-ed358380f2f9",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:38"
+}, {
+  "id" : 388,
+  "path" : "/SSRF/cookie/okHttp3.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.SSRFController.okHttp3",
+  "response" : "N/A",
+  "uuid" : "b9cb35dc-2a1f-4f77-90b2-9f2ad9be2068",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:38"
+}, {
+  "id" : 389,
+  "path" : "/SSRF/header/okHttp3.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "230c772f-699e-40df-8b65-61bf6d97c89c",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:38"
+}, {
+  "id" : 390,
+  "path" : "/SSRF/header/okHttp3.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.SSRFController.headerOkHttp3",
+  "response" : "N/A",
+  "uuid" : "9608eb43-1dfe-4621-9e9e-6724197de0d7",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:38"
+}, {
+  "id" : 391,
+  "path" : "/SSRF/header/okHttp3.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.SSRFController.okHttp3",
+  "response" : "N/A",
+  "uuid" : "0c26a33a-2f2e-4548-aaef-ca2c64ee841e",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:38"
+}, {
+  "id" : 392,
+  "path" : "/SSRF/json/okHttp3.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "79e7ccd8-d6e3-4667-a895-95d3bdc1abaf",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:38"
+}, {
+  "id" : 393,
+  "path" : "/SSRF/json/okHttp3.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.SSRFController.jsonOkHttp3",
+  "response" : "N/A",
+  "uuid" : "d68a66f6-b1c5-4dc6-ad22-2d0be566b8ea",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:38"
+}, {
+  "id" : 394,
+  "path" : "/SSRF/json/okHttp3.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.SSRFController.okHttp3",
+  "response" : "N/A",
+  "uuid" : "88e7a829-ecdd-4eb7-a52c-d91f7fce2fa2",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:38"
+}, {
+  "id" : 395,
+  "path" : "/SSRF/xml/okHttp3.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "5e27b648-ae6d-4280-8bcf-27eb8db8f1a8",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:38"
+}, {
+  "id" : 396,
+  "path" : "/SSRF/xml/okHttp3.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.SSRFController.xmlOkHttp3",
+  "response" : "N/A",
+  "uuid" : "c153fae9-e8bb-457c-a242-0dae73845017",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:38"
+}, {
+  "id" : 397,
+  "path" : "/SSRF/xml/okHttp3.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.SSRFController.okHttp3",
+  "response" : "N/A",
+  "uuid" : "0050e7b9-f51c-4d52-aa92-5ca3f6373369",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:38"
+}, {
+  "id" : 398,
+  "path" : "/SSRF/post/okHttp3.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "f8e19e97-b83b-492c-b349-232666a8d40d",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:39"
+}, {
+  "id" : 399,
+  "path" : "/SSRF/post/okHttp3.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.SSRFController.postOkHttp3",
+  "response" : "N/A",
+  "uuid" : "a2af74a8-22fd-4028-b8eb-36e6b9858190",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:39"
+}, {
+  "id" : 400,
+  "path" : "/SSRF/post/okHttp3.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.SSRFController.okHttp3",
+  "response" : "N/A",
+  "uuid" : "83170a47-4238-49d3-8a52-cb78841a92fb",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:39"
+}, {
+  "id" : 401,
+  "path" : "/SSRF/get/httpClient.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "3a975d27-8d9e-4329-b2ac-dfb1881fd747",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:39"
+}, {
+  "id" : 402,
+  "path" : "/SSRF/get/httpClient.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.SSRFController.getHttpClient",
+  "response" : "N/A",
+  "uuid" : "267ddbe6-b0cb-492d-aa69-d404e492ee21",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:39"
+}, {
+  "id" : 403,
+  "path" : "/SSRF/get/httpClient.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.SSRFController.httpClient",
+  "response" : "N/A",
+  "uuid" : "5d87c6a6-0a6f-4b2b-b981-019ca673c717",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:39"
+}, {
+  "id" : 404,
+  "path" : "/SSRF/post/httpClient.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "05889260-8c12-42b3-bec5-2a5b8928fe9b",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:39"
+}, {
+  "id" : 405,
+  "path" : "/SSRF/post/httpClient.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.SSRFController.postHttpClient",
+  "response" : "N/A",
+  "uuid" : "32a74210-6227-4b2f-9df4-cd836355d380",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:39"
+}, {
+  "id" : 406,
+  "path" : "/SSRF/post/httpClient.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.SSRFController.httpClient",
+  "response" : "N/A",
+  "uuid" : "0d4b0e1b-cbf7-4c51-a8b2-af0b62c70178",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:39"
+}, {
+  "id" : 407,
+  "path" : "/SSRF/cookie/httpClient.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "a67bcf6c-27f3-408c-a1a0-019c95616b32",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:39"
+}, {
+  "id" : 408,
+  "path" : "/SSRF/cookie/httpClient.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.SSRFController.cookieHttpClient",
+  "response" : "N/A",
+  "uuid" : "8104ed08-d020-4d6c-bad6-7225b57f3beb",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:39"
+}, {
+  "id" : 409,
+  "path" : "/SSRF/cookie/httpClient.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.SSRFController.httpClient",
+  "response" : "N/A",
+  "uuid" : "1fb3fe50-c81d-4f70-92cf-456e676738be",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:39"
+}, {
+  "id" : 410,
+  "path" : "/SSRF/header/httpClient.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "14d91d4b-ba73-43e1-9109-26ebf94567d6",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:40"
+}, {
+  "id" : 411,
+  "path" : "/SSRF/header/httpClient.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.SSRFController.headerHttpClient",
+  "response" : "N/A",
+  "uuid" : "b8583b86-a252-4683-bb17-6c9d47aede84",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:40"
+}, {
+  "id" : 412,
+  "path" : "/SSRF/header/httpClient.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.SSRFController.httpClient",
+  "response" : "N/A",
+  "uuid" : "4761912f-62f3-4bdd-a069-dd26b1f053fa",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:40"
+}, {
+  "id" : 413,
+  "path" : "/SSRF/json/httpClient.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "1d59486a-616b-4187-a492-8a3483331463",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:40"
+}, {
+  "id" : 414,
+  "path" : "/SSRF/json/httpClient.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.SSRFController.jsonHttpClient",
+  "response" : "N/A",
+  "uuid" : "a50df266-a2b6-410f-af32-fd98aff7a3c6",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:40"
+}, {
+  "id" : 415,
+  "path" : "/SSRF/json/httpClient.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.SSRFController.httpClient",
+  "response" : "N/A",
+  "uuid" : "f9b86912-d40b-4bba-b44f-86c27edf83bb",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:40"
+}, {
+  "id" : 416,
+  "path" : "/SSRF/xml/httpClient.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "2a563cd5-ebc6-4170-a899-780a9da992f4",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:40"
+}, {
+  "id" : 417,
+  "path" : "/SSRF/xml/httpClient.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.SSRFController.xmlHttpClient",
+  "response" : "N/A",
+  "uuid" : "84619cff-60b9-47fa-a997-a141cd0d32d7",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:40"
+}, {
+  "id" : 418,
+  "path" : "/SSRF/xml/httpClient.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.SSRFController.httpClient",
+  "response" : "N/A",
+  "uuid" : "3bd64682-9dbf-482b-b43a-a45eb90b4c9b",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:40"
+}, {
+  "id" : 419,
+  "path" : "/SSRF/post/httpClient.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "8b35a871-2d85-4479-8213-1338dc6e0e9c",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:40"
+}, {
+  "id" : 420,
+  "path" : "/SSRF/post/httpClient.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.SSRFController.postHttpClient",
+  "response" : "N/A",
+  "uuid" : "db7b9398-4beb-477a-8c49-f91f137744f0",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:40"
+}, {
+  "id" : 421,
+  "path" : "/SSRF/post/httpClient.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public org.springframework.http.ResponseEntity org.javaweb.vuln.controller.SSRFController.httpClient",
+  "response" : "N/A",
+  "uuid" : "01f7fe12-cfa5-44aa-b878-07d45fd63106",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:40"
+}, {
+  "id" : 422,
+  "path" : "/FastJson/fastJsonParseObject.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "279703a2-7c36-4894-a993-5b511ecaed22",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:40"
+}, {
+  "id" : 423,
+  "path" : "/FastJson/fastJsonParseObject.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public com.alibaba.fastjson.JSONObject org.javaweb.vuln.controller.FastJsonController.fastJsonParseObject",
+  "response" : "N/A",
+  "uuid" : "4da358fa-1281-4dfd-a44c-b406ae47fd6d",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:40"
+}, {
+  "id" : 424,
+  "path" : "/Jackson/readValue.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "3390e89e-d85f-44b6-9fc1-4ffbd6bbd3ae",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:41"
+}, {
+  "id" : 425,
+  "path" : "/Jackson/readValue.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.lang.Object org.javaweb.vuln.controller.JacksonController.jacksonReadValue",
+  "response" : "N/A",
+  "uuid" : "8b018a7a-4445-4b6b-8816-9d2c19687640",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:41"
+}, {
+  "id" : 426,
+  "path" : "/XStream/xStream.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "e3d1efb5-883e-4d61-b005-52b6d5923fc2",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:41"
+}, {
+  "id" : 427,
+  "path" : "/XStream/xStream.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.XStreamController.xStream",
+  "response" : "N/A",
+  "uuid" : "f9ce19b1-b124-4603-8077-700768b311e2",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:41"
+}, {
+  "id" : 428,
+  "path" : "/Patch/readFileTest.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "97a5f12d-5ddb-46f3-be41-38db3a625aad",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:41"
+}, {
+  "id" : 429,
+  "path" : "/Patch/readFileTest.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.PatchController.readFileTest",
+  "response" : "N/A",
+  "uuid" : "2c0a427b-1b9c-436a-97d1-abfdd9ba6754",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:41"
+}, {
+  "id" : 430,
+  "path" : "/Blacklist/url.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "67dd3e62-9f2e-4494-b6e9-6b5f3ec3ed08",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:46"
+}, {
+  "id" : 431,
+  "path" : "/Blacklist/url.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.BlacklistController.url",
+  "response" : "N/A",
+  "uuid" : "9b559931-6844-4721-81a2-4436cb243083",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:46"
+}, {
+  "id" : 432,
+  "path" : "/Blacklist/url.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "90bb2726-e4b5-4ab0-b35d-a3ab01f95ccb",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:46"
+}, {
+  "id" : 433,
+  "path" : "/Blacklist/url.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "e4cf0554-32a3-42e0-a30d-a0da6a36ad4c",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:46"
+}, {
+  "id" : 434,
+  "path" : "/Blacklist/url.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "bd396dbe-6a64-4640-b653-5e6a2fe93a1c",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:46"
+}, {
+  "id" : 435,
+  "path" : "/Blacklist/url.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "4876e035-3a6a-417f-94ac-3a20f4b73555",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:46"
+}, {
+  "id" : 436,
+  "path" : "/Blacklist/url.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "874e406d-a62d-47d8-9d59-d8175ea70cb4",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:46"
+}, {
+  "id" : 437,
+  "path" : "/Whitelist/url.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "0f69bcdb-f760-4ecc-a403-a3dd643e4d5b",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:46"
+}, {
+  "id" : 438,
+  "path" : "/Whitelist/url.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.WhitelistController.url",
+  "response" : "N/A",
+  "uuid" : "bd19d4f8-9c0a-4831-b939-f8ad4b0160e7",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:46"
+}, {
+  "id" : 439,
+  "path" : "/Whitelist/url.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "34c8c7d0-75cb-40f1-870e-f7a5f7fe7e5f",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:46"
+}, {
+  "id" : 440,
+  "path" : "/Whitelist/url.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "d820a285-3331-4cdf-829c-4ae7e4b6b273",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:46"
+}, {
+  "id" : 441,
+  "path" : "/Whitelist/url.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "4f6a2de0-0f15-4199-9561-c64b2e7a140f",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:46"
+}, {
+  "id" : 442,
+  "path" : "/JNDI/get/lookup.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "fd24685a-ef4e-44ba-bb8f-30c5608a0dd8",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:46"
+}, {
+  "id" : 443,
+  "path" : "/JNDI/get/lookup.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.JNDIController.getLookup",
+  "response" : "N/A",
+  "uuid" : "9341fa7e-348e-478b-835b-6471d7707741",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:46"
+}, {
+  "id" : 444,
+  "path" : "/JNDI/get/lookup.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.JNDIController.lookup",
+  "response" : "N/A",
+  "uuid" : "6868fb71-41ee-4afd-9181-1bb5e6f02371",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:46"
+}, {
+  "id" : 445,
+  "path" : "/JNDI/post/lookup.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "e74d957a-9849-4b99-8b22-da3839ea2446",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:46"
+}, {
+  "id" : 446,
+  "path" : "/JNDI/post/lookup.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.JNDIController.postLookup",
+  "response" : "N/A",
+  "uuid" : "a692e17f-7d2e-4087-8f31-c8b06aafc9f8",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:46"
+}, {
+  "id" : 447,
+  "path" : "/JNDI/post/lookup.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.JNDIController.lookup",
+  "response" : "N/A",
+  "uuid" : "8a08591e-462d-40fc-b86c-bc5364fbafe0",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:46"
+}, {
+  "id" : 448,
+  "path" : "/JNDI/cookie/lookup.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "49d31b16-0e65-40bf-924d-2876e626df96",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:46"
+}, {
+  "id" : 449,
+  "path" : "/JNDI/cookie/lookup.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.JNDIController.cookieLookup",
+  "response" : "N/A",
+  "uuid" : "45876c06-7b1c-446e-a822-8ac1abc31622",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:46"
+}, {
+  "id" : 450,
+  "path" : "/JNDI/cookie/lookup.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.JNDIController.lookup",
+  "response" : "N/A",
+  "uuid" : "441a1e7e-9da9-49d5-a735-737e233b37cc",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:46"
+}, {
+  "id" : 451,
+  "path" : "/JNDI/header/lookup.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "b51e4fdd-bce9-436d-a101-51a9179f3bd1",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:46"
+}, {
+  "id" : 452,
+  "path" : "/JNDI/header/lookup.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.JNDIController.headerLookup",
+  "response" : "N/A",
+  "uuid" : "c3dedaa5-783a-492c-aa19-90f22f6567b1",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:46"
+}, {
+  "id" : 453,
+  "path" : "/JNDI/header/lookup.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.JNDIController.lookup",
+  "response" : "N/A",
+  "uuid" : "82858d97-5a6e-499d-9b9d-6bfe457b6d7b",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:46"
+}, {
+  "id" : 454,
+  "path" : "/JNDI/json/lookup.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "063fdc6f-e201-4238-a3fc-70a28f6b5e57",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:47"
+}, {
+  "id" : 455,
+  "path" : "/JNDI/json/lookup.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.JNDIController.jsonLookup",
+  "response" : "N/A",
+  "uuid" : "f6b1b123-fab8-48c1-8703-02f5d6a1bb5d",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:47"
+}, {
+  "id" : 456,
+  "path" : "/JNDI/json/lookup.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.JNDIController.lookup",
+  "response" : "N/A",
+  "uuid" : "c1b2cad6-9a72-4412-8347-2c1fc2ecd6e5",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:47"
+}, {
+  "id" : 457,
+  "path" : "/JNDI/post/lookup.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "078bf59c-f6f6-493a-b321-1f2874d4c4a1",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:47"
+}, {
+  "id" : 458,
+  "path" : "/JNDI/post/lookup.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.JNDIController.postLookup",
+  "response" : "N/A",
+  "uuid" : "5cdbe764-3431-4225-a80b-36d5462ca078",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:47"
+}, {
+  "id" : 459,
+  "path" : "/JNDI/post/lookup.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.JNDIController.lookup",
+  "response" : "N/A",
+  "uuid" : "4c93c43a-0701-4bba-8afa-8928caac4dc3",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:47"
+}, {
+  "id" : 460,
+  "path" : "/DisableMethod/log4j.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "2949b903-732e-41c5-953d-12eac16889a9",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:47"
+}, {
+  "id" : 461,
+  "path" : "/DisableMethod/log4j.do",
+  "method" : "GET",
+  "parameters" : "org.apache.catalina.util.ParameterMap@61c03011",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.DisableMethodController.log4j",
+  "response" : "N/A",
+  "uuid" : "1334e0e4-80c2-4ece-a9a7-097f2c621cbc",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:47"
+}, {
+  "id" : 462,
+  "path" : "/Yaml/yaml.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "49726473-4342-4e2e-bf46-15bf1b6fcd9f",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:47"
+}, {
+  "id" : 463,
+  "path" : "/Yaml/yaml.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.SnakeyamlController.snakeYaml",
+  "response" : "N/A",
+  "uuid" : "613376c0-8728-49f9-a4f1-57eb5210dbbd",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:47"
+}, {
+  "id" : 464,
+  "path" : "/ScriptEngine/scriptEngineEval.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "5ad1880f-1483-4890-a611-8e3d38ceeab3",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:47"
+}, {
+  "id" : 465,
+  "path" : "/ScriptEngine/scriptEngineEval.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.ScriptEngineController.scriptEngineEval",
+  "response" : "N/A",
+  "uuid" : "b66039b0-b41a-42d4-9084-acd2cfa19b21",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:47"
+}, {
+  "id" : 466,
+  "path" : "/Request/proxy.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "38977e3d-f571-4086-861f-a6024a948e6d",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:47"
+}, {
+  "id" : 467,
+  "path" : "/Request/proxy.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "public java.util.Map org.javaweb.vuln.controller.RequestController.xerces",
+  "response" : "N/A",
+  "uuid" : "34fe55ab-7b26-493b-9890-ad6d713d3a75",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:47"
+}, {
+  "id" : 468,
+  "path" : "/Request/proxy.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "c1771167-e1a0-470e-b213-536256b9a121",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:47"
+}, {
+  "id" : 469,
+  "path" : "/Request/proxy.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "6d68165c-5443-46d6-980f-cc1f9b1f8492",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:47"
+}, {
+  "id" : 470,
+  "path" : "/Request/proxy.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "5e7f3b64-01f2-48f1-8c79-b405ca22319f",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:47"
+}, {
+  "id" : 471,
+  "path" : "/Request/proxy.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "2a781277-bbf7-4702-ba20-bf581053359a",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:47"
+}, {
+  "id" : 472,
+  "path" : "/Request/proxy.do",
+  "method" : "POST",
+  "parameters" : "org.apache.catalina.util.ParameterMap@cf15dd0",
+  "tags" : "Other",
+  "response" : "N/A",
+  "uuid" : "cd9fac19-a96e-42bc-8f00-4f719de4123a",
+  "host" : "0:0:0:0:0:0:0:1",
+  "created_at" : "3/10/2025 18:56:47"
+} ]
